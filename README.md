@@ -1,16 +1,23 @@
 # Awesome Generative AI (LLMs) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-**NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
-
 A curated list of resources to help you become a Generative AI (GenAI) Developer. This repository includes resources on building GenAI applications with Large Language Models (LLMs), and deploying LLMs and GenAI with Cloud-based solutions.
+
+**NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
 
 ## Contents:
 
-- [Python Libraries (GenAI and LLMs)](#python-libraries-genai-and-llms)
+- [Awesome Resources with Real World AI Use Cases](#awesome-resources-with-real-world-ai-use-cases)
+- [Python Libraries](#python-libraries)
 - [Projects (GenAI and LLMs)](#llm-deployment-cloud-services)
-- [Courses](#courses-genai-and-llms)
+- [Courses and Training](#courses-and-training)
 
-# Python Libraries (GenAI and LLMs)
+# Awesome Resources with Real World AI Use Cases
+
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
+- [AI Data Science Team](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster.
+- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
+
+# Python Libraries
 
 ## AI LLM Frameworks
 
@@ -41,6 +48,7 @@ A curated list of resources to help you become a Generative AI (GenAI) Developer
 
 - [Embedchain](https://embedchain.ai/): Create an AI app on your own data in a minute [Documentation](https://docs.embedchain.ai/get-started/quickstart) [Github Repo](https://github.com/mem0ai/mem0/tree/main/embedchain)
 - [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) [Github](https://github.com/mem0ai/mem0)
+- [Docling](https://ds4sd.github.io/docling/): Parse documents and export them to the desired format with ease and speed. [Github](https://github.com/DS4SD/docling)
 
 # LLM Deployment (Cloud Services)
 
@@ -77,7 +85,7 @@ A curated list of resources to help you become a Generative AI (GenAI) Developer
 - [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy): Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments.
 
 
-# Courses (GenAI and LLMs)
+# Courses and Training
 
 ## Free AI For Data Scientists Workshop
 
