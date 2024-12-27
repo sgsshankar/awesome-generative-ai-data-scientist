@@ -25,6 +25,7 @@ A curated list of resources to help you become a Generative AI Data Scientist. T
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
 - [LlamaIndex](https://github.com/run-llama/llama_index): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs.
 - [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
+- [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) [Github](https://github.com/crewAIInc/crewAI)
 
 ## LLM Models
 
