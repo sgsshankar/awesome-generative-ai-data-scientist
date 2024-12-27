@@ -77,6 +77,10 @@ A curated list of resources to help you become a Generative AI Data Scientist. T
 - [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai): Prompt Flow and RAG Examples for use with the Microsoft Azure Cloud platform
 - [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop): Introduces how to leverage foundation models (FMs) through Amazon Bedrock
 
+### Microsoft Azure
+
+- [Microsoft Intro to Generative AI Course](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
+
 ### Google Cloud Platform (GCP)
 
 - [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples): Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI
