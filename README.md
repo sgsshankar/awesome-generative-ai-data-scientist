@@ -10,12 +10,6 @@ A curated list of resources to help you become a Generative AI (GenAI) Developer
 - [Projects (GenAI and LLMs)](#llm-deployment-cloud-services)
 - [Courses](#courses-genai-and-llms)
 
-Comming Soon:
-
-- Communities
-- Social
-- Books
-
 # Python Libraries (GenAI and LLMs)
 
 ## AI LLM Frameworks
@@ -39,8 +33,14 @@ Comming Soon:
 
 - [ChromaDB](https://github.com/chroma-core/chroma): The fastest way to build Python or JavaScript LLM apps with memory!
 - [FAISS](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
+- [Qdrant](https://qdrant.tech/): High-Performance Vector Search at Scale
 - [Pinecone](https://github.com/pinecone-io/pinecone-python-client): The official Pinecone Python SDK.
 - [Milvus](https://github.com/milvus-io/milvus): Milvus is an open-source vector database built to power embedding similarity search and AI applications. 
+
+## Useful Python GenAI Libraries
+
+- [Embedchain](https://embedchain.ai/): Create an AI app on your own data in a minute [Documentation](https://docs.embedchain.ai/get-started/quickstart) [Github Repo](https://github.com/mem0ai/mem0/tree/main/embedchain)
+- [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) [Github](https://github.com/mem0ai/mem0)
 
 # LLM Deployment (Cloud Services)
 
@@ -59,16 +59,29 @@ Comming Soon:
 - [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
 - [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
 
-## Cloud Examples:
+## Cloud Examples and Cookbooks
+
+### Amazon Web Services (AWS)
 
 - [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai): Prompt Flow and RAG Examples for use with the Microsoft Azure Cloud platform
 - [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop): Introduces how to leverage foundation models (FMs) through Amazon Bedrock
+
+### Google Cloud Platform (GCP)
+
 - [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples): Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI
+- [Google Generative AI Examples](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+
+### NVIDIA 
+
 - [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere): An entrypoint for developing with NIMs that natively scales out to full-sized labs and up to production environments.
 - [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy): Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments.
 
 
 # Courses (GenAI and LLMs)
+
+## Free AI For Data Scientists Workshop
+
+Get free training on how to build and deploy Generative AI / ML Solutions. [Register for our next free workshop here.](https://learn.business-science.io/ai-register)
 
 ## 8-Week AI Bootcamp by Business Science
 
