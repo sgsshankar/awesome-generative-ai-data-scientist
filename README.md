@@ -97,6 +97,10 @@ A curated list of resources to help you become a Generative AI Data Scientist. T
 - [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
 - [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
 
+## Huggingface Platform
+
+- [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
+
 ## Cloud Examples and Cookbooks
 
 ### Amazon Web Services (AWS)
