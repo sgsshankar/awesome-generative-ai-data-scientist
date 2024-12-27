@@ -79,7 +79,8 @@ A curated list of resources to help you become a Generative AI Data Scientist. T
 
 ### Microsoft Azure
 
-- [Microsoft Intro to Generative AI Course](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/)
+- [Microsoft Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) 21 Lessons teaching everything you need to know to start building Generative AI applications [Github](https://github.com/microsoft/generative-ai-for-beginners)
+- [Microsoft Intro to Generative AI Course](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) 
 
 ### Google Cloud Platform (GCP)
 
