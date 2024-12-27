@@ -8,7 +8,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [Awesome Real World AI Use Cases](#awesome-real-world-ai-use-cases)
 - [Python Libraries](#python-libraries)
-- [Projects (GenAI and LLMs)](#llm-deployment-cloud-services)
+- [Examples and Cookbooks](#examples-and-cookbooks)
 - [Courses and Training](#courses-and-training)
 
 # Awesome Real-World AI Use Cases
@@ -37,6 +37,10 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Google Gemini](https://github.com/google-gemini/generative-ai-python): The official Python library for the Google Gemini API
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
+
+## Huggingface Platform
+
+- [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
 
 ## Vector Databases (RAG)
 
@@ -88,18 +92,14 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai): NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations.
 
 
-# Projects (GenAI and LLMs)
+# Examples and Cookbooks
 
-## Cookbooks and Examples:
+## Building AI
 
 - [LangChain Cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/README.md): Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples.
 - [LangGraph Examples](https://github.com/langchain-ai/langgraph/tree/main/examples): Example code for building applications with LangGraph
 - [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
 - [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
-
-## Huggingface Platform
-
-- [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
 
 ## Cloud Examples and Cookbooks
 
