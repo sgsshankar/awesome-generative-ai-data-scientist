@@ -2,13 +2,14 @@
 
 A curated list of 50+ resources to help you become a Generative AI Data Scientist. This repository includes resources on building GenAI applications with Large Language Models (LLMs), and deploying LLMs and GenAI with Cloud-based solutions.
 
-**NOTE** - This is a work in progress. Changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
+**NOTE** - This is a work in progress. So that you know, changes and additions are welcome. Please use Pull Requests to suggest modifications and improvements. 
 
 ## Contents:
 
 - [Awesome Real World AI Use Cases](#awesome-real-world-ai-use-cases)
 - [Python Libraries](#python-libraries)
 - [Examples and Cookbooks](#examples-and-cookbooks)
+- [Newsletters](#newsletters)
 - [Courses and Training](#courses-and-training)
 
 # Awesome Real-World AI Use Cases
@@ -27,6 +28,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
 - [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) [Github](https://github.com/crewAIInc/crewAI)
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
+- [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 
 ## LLM Models and Providers
 
@@ -70,7 +72,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
 
-## Useful Python GenAI Libraries
+## Miscellaneous
 
 - [Embedchain](https://embedchain.ai/): Create an AI app on your own data in a minute [Documentation](https://docs.embedchain.ai/get-started/quickstart) [Github Repo](https://github.com/mem0ai/mem0/tree/main/embedchain)
 - [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) [Github](https://github.com/mem0ai/mem0)
@@ -79,9 +81,14 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
 - [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
-- [AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration.
-- [PromptFify](https://github.com/promptslab/Promptify) - A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
-- [LiteLLM](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
+- [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
+- [PromptFify](https://github.com/promptslab/Promptify): A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
+- [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
+- [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
+- [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
+- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
+
+ 
 
 
 # LLM Deployment (Cloud Services)
@@ -120,9 +127,13 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ### NVIDIA 
 
-- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere): An entrypoint for developing with NIMs that natively scales out to full-sized labs and up to production environments.
+- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere): An entry point for developing with NIMs that natively scales out to full-sized labs and up to production environments.
 - [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy): Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments.
 
+# Newsletters
+
+- [Python AI/ML Tips](https://github.com/business-science/free-ai-tips) - Free newsletter on Generative AI and Data Science.
+- [unwind ai](https://www.theunwindai.com/) - Latest AI news, tools, and tutorials for AI Developers
 
 # Courses and Training
 
