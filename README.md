@@ -17,6 +17,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Data Science Team](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster.
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
+- [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
 
 # Python Libraries
 
@@ -88,8 +89,12 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
+- [Memary](https://github.com/kingjulio8238/Memary): Open Source Memory Layer For Autonomous Agents
+- [Pyspur](https://github.com/PySpur-Dev/pyspur): Graph-Based Editor for LLM Workflows
+- [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
+- [Agenta](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. [Documentation](https://docs.agenta.ai/) 
 
- 
+
 
 
 # LLM Deployment (Cloud Services)
@@ -138,10 +143,10 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Courses and Training
 
-## Free AI For Data Scientists Workshop
+## Free Training
 
-Get free training on how to build and deploy Generative AI / ML Solutions. [Register for our next free workshop here.](https://learn.business-science.io/ai-register)
+- [Generative AI Data Scientist Workshops](https://learn.business-science.io/ai-register) Get free training on how to build and deploy Generative AI / ML Solutions. [Register for the next free workshop here.](https://learn.business-science.io/ai-register)
 
-## 8-Week AI Bootcamp by Business Science
+## Paid Courses
 
-We are launching a new Generative AI Bootcamp that covers end-to-end AI application development and Cloud deployment. [Find out more about how to build AI with Python, and attend our free AI training session here.](https://learn.business-science.io/registration-ai-workshop-2)
+- [8-Week AI Bootcamp by Business Science](https://learn.business-science.io/generative-ai-bootcamp-enroll): Focused on helping you become a Generative AI Data Scientist. Learn How To Build and Deploy AI-Powered Data Science Solutions using LangChain, LangGraph, Pandas, Scikit Learn, Streamlit, AWS, Bedrock, and EC2.
