@@ -118,7 +118,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
 - [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
 
-## Cloud Examples and Cookbooks
+## Deploying AI
 
 ### Amazon Web Services (AWS)
 
