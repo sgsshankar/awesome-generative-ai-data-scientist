@@ -31,6 +31,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
 - [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make it less painful to build production grade applications with Generative AI. [Github](https://github.com/pydantic/pydantic-ai)
+- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata) 
 
 ## LLM Models and Providers
 
