@@ -25,11 +25,11 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
-- [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) [Github](https://github.com/run-llama/llama_index)
+- [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
+- - [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) [Github](https://github.com/run-llama/llama_index)
 - [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
 - [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) [Github](https://github.com/crewAIInc/crewAI)
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
-- [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make it less painful to build production grade applications with Generative AI. [Github](https://github.com/pydantic/pydantic-ai)
 
 ## LLM Models and Providers
