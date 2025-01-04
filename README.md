@@ -31,7 +31,6 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
 - [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make it less painful to build production grade applications with Generative AI. [Github](https://github.com/pydantic/pydantic-ai)
-- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata) 
 
 ## LLM Models and Providers
 
@@ -81,6 +80,9 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Docling by IBM](https://ds4sd.github.io/docling/): Parse documents and export them to the desired format with ease and speed. [Github](https://github.com/DS4SD/docling)
 - [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
+
+## Prebuilt Agents
+- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata) 
 
 ## LLM Memory
 
