@@ -82,7 +82,8 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
 
 ## Prebuilt Agents
-- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata) 
+- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata)
+- [Composio](https://composio.dev/): Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). [Documentation](https://docs.composio.dev/) | [Github](https://github.com/ComposioHQ/composio)
 
 ## LLM Memory
 
