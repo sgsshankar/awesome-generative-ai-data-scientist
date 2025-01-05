@@ -14,7 +14,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Awesome Real-World AI Use Cases
 
-- [AI Data Science Team](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster.
+- [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
