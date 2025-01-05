@@ -159,4 +159,4 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Paid Courses
 
-- [8-Week AI Bootcamp by Business Science](https://learn.business-science.io/generative-ai-bootcamp-enroll): Focused on helping you become a Generative AI Data Scientist. Learn How To Build and Deploy AI-Powered Data Science Solutions using LangChain, LangGraph, Pandas, Scikit Learn, Streamlit, AWS, Bedrock, and EC2.
+- [8-Week AI Bootcamp To Become A Generative AI-Data Scientist](https://learn.business-science.io/generative-ai-bootcamp-enroll): Focused on helping you become a Generative AI Data Scientist. Learn How To Build and Deploy AI-Powered Data Science Solutions using LangChain, LangGraph, Pandas, Scikit Learn, Streamlit, AWS, Bedrock, and EC2.
