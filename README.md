@@ -23,18 +23,18 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## AI LLM Frameworks (Build Your Own)
 
-- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
-- [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) [Github](https://github.com/run-llama/llama_index)
+- [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) | [Github](https://github.com/run-llama/llama_index)
 - [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
-- [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) [Github](https://github.com/crewAIInc/crewAI)
+- [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) | [Github](https://github.com/crewAIInc/crewAI)
 - [AutoGen](https://github.com/microsoft/autogen): Microsoft's programming framework for agentic AI.
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make building production-grade applications with Generative AI less painful. [Github](https://github.com/pydantic/pydantic-ai)
 
 ## AI LLM Frameworks (Drag and Drop)
 
-- [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
+- [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
 
 ## LLM Providers
 
@@ -48,7 +48,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## LangChain Platform
 
-- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
 
@@ -108,7 +108,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## LLM Memory
 
-- [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) [Github](https://github.com/mem0ai/mem0)
+- [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) | [Github](https://github.com/mem0ai/mem0)
 - [Memary](https://github.com/kingjulio8238/Memary): Open Source Memory Layer For Autonomous Agents
 
 ## LLMOps
@@ -127,6 +127,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [Pyspur](https://github.com/PySpur-Dev/pyspur): Graph-Based Editor for LLM Workflows
 - [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
+- [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
 
 # LLM Deployment (Cloud Services)
 
