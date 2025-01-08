@@ -125,7 +125,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Code Sandbox (Security)
 
-- [E2B](https://e2b.dev/): E2B is an open-source runtime for executing AI-generated code in secure cloud sandboxes. Made for agentic & AI use cases. [Documentation](https://e2b.dev/docs) | [Github](https://github.com/e2b-dev)
+- [E2B](https://e2b.dev/): E2B is an open-source runtime for executing AI-generated code in secure cloud sandboxes. Made for agentic & AI use cases. [Documentation](https://e2b.dev/docs) | [Github]([https://github.com/e2b-dev](https://github.com/e2b-dev/e2b))
 
 ## Miscellaneous
 
