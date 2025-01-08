@@ -36,6 +36,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 ## AI LLM Frameworks (Drag and Drop)
 
 - [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
+- [Pyspur](https://www.pyspur.dev/): Graph-Based Editor for LLM Workflows [Documentation]() | [Github](https://github.com/PySpur-Dev/PySpur)
 
 ## LLM Providers
 
@@ -137,7 +138,6 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
-- [Pyspur](https://github.com/PySpur-Dev/pyspur): Graph-Based Editor for LLM Workflows
 - [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
 
 
