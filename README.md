@@ -36,7 +36,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 
-## LLM Models and Providers
+## LLM Providers
 
 - [OpenAI](https://github.com/openai/openai-python): The official Python library for the OpenAI API
 - [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
@@ -51,7 +51,6 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
-
 
 ## Huggingface Platform
 
@@ -100,6 +99,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [LangChain Agents](https://python.langchain.com/docs/tutorials/agents/): Build agents with LangChain.
 - [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
+- [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve. [GitHub](https://github.com/Thytu/Agentarium)
 
 ## Agents and Tools (Prebuilt)
 
@@ -117,6 +117,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Miscellaneous
 
+- [AI Suite](https://github.com/andrewyng/aisuite): Simple, unified interface to multiple Generative AI providers
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow): The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
 - [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models.
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
