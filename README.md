@@ -21,7 +21,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Python Libraries
 
-## AI LLM Frameworks (Build Your Own)
+## AI Frameworks (Build Your Own)
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
@@ -33,7 +33,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make building production-grade applications with Generative AI less painful. [Github](https://github.com/pydantic/pydantic-ai)
 - [ControlFlow]([https://github.com/PrefectHQ/ControlFlow](https://controlflow.ai/): Prefect's Python framework for building agentic AI workflows. [Documentation](https://controlflow.ai/welcome) | [Github](https://github.com/PrefectHQ/ControlFlow)
 
-## AI LLM Frameworks (Drag and Drop)
+## AI Frameworks (Drag and Drop)
 
 - [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio): IDE that enables visualization, interaction, and debugging of complex agentic applications
 - [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
