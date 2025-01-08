@@ -124,6 +124,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 - [Agenta](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. [Documentation](https://docs.agenta.ai/) 
 - [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
+- [Helicone](https://www.helicone.ai/): Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. [Documentation](https://docs.helicone.ai/) | [Github](https://github.com/Helicone/helicone)
 
 ## Code Sandbox (Security)
 
