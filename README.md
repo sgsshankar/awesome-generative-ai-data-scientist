@@ -90,14 +90,20 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Document Parsing
 
+- [LangChain Document Loaders](https://python.langchain.com/docs/concepts/document_loaders/): LangChain has hundreds of integrations with various data sources to load data from: Slack, Notion, Google Drive, etc.
 - [Embedchain](https://embedchain.ai/): Create an AI app on your own data in a minute [Documentation](https://docs.embedchain.ai/get-started/quickstart) [Github Repo](https://github.com/mem0ai/mem0/tree/main/embedchain)
 - [Docling by IBM](https://ds4sd.github.io/docling/): Parse documents and export them to the desired format with ease and speed. [Github](https://github.com/DS4SD/docling)
 - [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+
+## Web Parsing (HTML)
+
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
+- [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
 
 ## Agents and Tools (Build Your Own)
 
 - [LangChain Agents](https://python.langchain.com/docs/tutorials/agents/): Build agents with LangChain.
+- [LangChain Tools](https://python.langchain.com/docs/concepts/tools/): Integrate Tools (Function Calling) with LangChain.
 - [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
 - [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve. [GitHub](https://github.com/Thytu/Agentarium)
 
@@ -127,7 +133,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [Pyspur](https://github.com/PySpur-Dev/pyspur): Graph-Based Editor for LLM Workflows
 - [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
-- [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
+
 
 # LLM Deployment (Cloud Services)
 
