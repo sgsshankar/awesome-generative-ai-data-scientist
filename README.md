@@ -21,16 +21,20 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Python Libraries
 
-## AI LLM Frameworks
+## AI LLM Frameworks (Build Your Own)
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
-- [LangFlow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
+- [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
 - [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) [Github](https://github.com/run-llama/llama_index)
 - [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
 - [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) [Github](https://github.com/crewAIInc/crewAI)
-- [AutoGen](https://github.com/microsoft/autogen) - A programming framework for agentic AI by Microsoft.
-- [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make it less painful to build production grade applications with Generative AI. [Github](https://github.com/pydantic/pydantic-ai)
+- [AutoGen](https://github.com/microsoft/autogen): Microsoft's programming framework for agentic AI.
+- [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make building production-grade applications with Generative AI less painful. [Github](https://github.com/pydantic/pydantic-ai)
+
+## AI LLM Frameworks (Drag and Drop)
+
+- [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) [Github](https://github.com/langflow-ai/langflow)
 
 ## LLM Models and Providers
 
@@ -42,9 +46,20 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
 
+## LangChain Platform
+
+- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+- [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
+- [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
+
+
 ## Huggingface Platform
 
 - [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
+- [Transformers](https://huggingface.co/docs/transformers): Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models.
+- [Tokenizers](https://huggingface.co/docs/tokenizers): Tokenizers provides an implementation of today’s most used tokenizers, with a focus on performance and versatility [Documentation] | [Github](https://github.com/huggingface/transformers)
+- [Sentence Transformers](https://sbert.net/): Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models.
+- [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
 
 ## Vector Databases (RAG)
 
@@ -56,23 +71,23 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Pretraining
 
-- [PyTorch](https://pytorch.org/) - PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-- [TensorFlow](https://www.tensorflow.org/) - TensorFlow is an open source machine learning library developed by Google.
-- [JAX](https://github.com/jax-ml/jax) - Google’s library for high-performance computing and automatic differentiation.
-- [tinygrad](https://github.com/tinygrad/tinygrad) - A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
-- [micrograd](https://github.com/karpathy/micrograd) - A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
-
+- [PyTorch](https://pytorch.org/): PyTorch is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
+- [TensorFlow](https://www.tensorflow.org/): TensorFlow is an open-source machine learning library developed by Google.
+- [JAX](https://github.com/jax-ml/jax): Google’s library for high-performance computing and automatic differentiation.
+- [tinygrad](https://github.com/tinygrad/tinygrad): A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
+- [micrograd](https://github.com/karpathy/micrograd): A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
 
 ## Fine-tuning
 
-- [Transformers](https://huggingface.co/docs/transformers/en/installation) - Hugging Face Transformers is a popular library for Natural Language Processing (NLP) tasks, including fine-tuning large language models.
-- [Unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.2, Mistral, Phi-3.5 & Gemma 2-5x faster with 80% less memory!
-- [LitGPT](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.
-- [AutoTrain](https://github.com/huggingface/autotrain-advanced) - No code fine-tuning of LLMs and other machine learning tasks.
+- [Transformers](https://huggingface.co/docs/transformers): Hugging Face Transformers is a popular library for Natural Language Processing (NLP) tasks, including fine-tuning large language models.
+- [Unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.2, Mistral, Phi-3.5 & Gemma 2-5x faster with 80% less memory!
+- [LitGPT](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.
+- [AutoTrain](https://github.com/huggingface/autotrain-advanced): No code fine-tuning of LLMs and other machine learning tasks.
 
 ## Testing and Monitoring
 
-- [Opik](https://github.com/comet-ml/opik) - Opik is an open-source platform for evaluating, testing and monitoring LLM applications
+- [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
+- [Opik](https://github.com/comet-ml/opik): Opik is an open-source platform for evaluating, testing and monitoring LLM applications
 
 ## Document Parsing
 
@@ -81,7 +96,13 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
 
+## Agents and Tools (Build Your Own)
+
+- [LangChain Agents](https://python.langchain.com/docs/tutorials/agents/): Build agents with LangChain.
+- [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
+
 ## Agents and Tools (Prebuilt)
+
 - [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata)
 - [Composio](https://composio.dev/): Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). [Documentation](https://docs.composio.dev/) | [Github](https://github.com/ComposioHQ/composio)
 
@@ -96,8 +117,8 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Miscellaneous
 
-- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
-- [dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—foundation models.
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow): The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
+- [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models.
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
 - [PromptFify](https://github.com/promptslab/Promptify): A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
@@ -106,14 +127,12 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Pyspur](https://github.com/PySpur-Dev/pyspur): Graph-Based Editor for LLM Workflows
 - [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
 
-
 # LLM Deployment (Cloud Services)
 
 - [AWS Bedrock](https://aws.amazon.com/bedrock/): Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon
 - [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services): Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and prebuilt and customizable APIs and models. 
 - [Google Vertex AI](https://cloud.google.com/vertex-ai): Vertex AI is a fully-managed, unified AI development platform for building and using generative AI.
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai): NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations.
-
 
 # Examples and Cookbooks
 
@@ -148,8 +167,8 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Newsletters
 
-- [Python AI/ML Tips](https://github.com/business-science/free-ai-tips) - Free newsletter on Generative AI and Data Science.
-- [unwind ai](https://www.theunwindai.com/) - Latest AI news, tools, and tutorials for AI Developers
+- [Python AI/ML Tips](https://github.com/business-science/free-ai-tips): Free newsletter on Generative AI and Data Science.
+- [unwind ai](https://www.theunwindai.com/): Latest AI news, tools, and tutorials for AI Developers
 
 # Courses and Training
 
