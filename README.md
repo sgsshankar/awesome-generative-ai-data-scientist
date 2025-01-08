@@ -119,8 +119,13 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Memary](https://github.com/kingjulio8238/Memary): Open Source Memory Layer For Autonomous Agents
 
 ## LLMOps
+
 - [Agenta](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. [Documentation](https://docs.agenta.ai/) 
 - [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
+
+## Code Sandbox (Security)
+
+- [E2B](https://e2b.dev/): E2B is an open-source runtime for executing AI-generated code in secure cloud sandboxes. Made for agentic & AI use cases. [Documentation](https://e2b.dev/docs) | [Github](https://github.com/e2b-dev)
 
 ## Miscellaneous
 
