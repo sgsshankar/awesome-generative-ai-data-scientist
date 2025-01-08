@@ -131,8 +131,8 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Miscellaneous
 
-- [AI Suite](https://github.com/andrewyng/aisuite): Simple, unified interface to multiple Generative AI providers
-- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow): The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by [SylphAI](https://www.sylph.ai/).
+- [AI Suite](https://github.com/andrewyng/aisuite): Simple, unified interface to multiple Generative AI providers.
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow): The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by SylphAI.
 - [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models.
 - [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
 - [PromptFify](https://github.com/promptslab/Promptify): A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
