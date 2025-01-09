@@ -14,13 +14,18 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Awesome Real-World AI Use Cases
 
-- [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster.
-- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
+- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
+- 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
 - [Strutured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA): How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. We show that this agent can produce reports of varying and easily configurable format. [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) | [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) | [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb)
 
 # Python Libraries
+
+## Data Science And AI
+
+- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
+- 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
 
 ## AI Frameworks (Build Your Own)
 
