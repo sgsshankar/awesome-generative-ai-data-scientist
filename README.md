@@ -29,7 +29,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 ## Coding Agents
 
-- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): a framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) | [Github](https://github.com/QwenLM/Qwen-Agent)
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): A framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. [Documentation](https://github.com/QwenLM/Qwen-Agent/tree/main/docs) | [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) | [Github](https://github.com/QwenLM/Qwen-Agent)
 
 ## AI Frameworks (Build Your Own)
 
