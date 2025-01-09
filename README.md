@@ -22,10 +22,14 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 
 # Python Libraries
 
-## Data Science And AI
+## Data Science And AI Agents
 
 - 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
+
+## Coding Agents
+
+- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): a framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) | [Github](https://github.com/QwenLM/Qwen-Agent)
 
 ## AI Frameworks (Build Your Own)
 
