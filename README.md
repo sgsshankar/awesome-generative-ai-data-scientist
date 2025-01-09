@@ -18,6 +18,7 @@ A curated list of 50+ resources to help you become a Generative AI Data Scientis
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
+- [Strutured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA): How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. We show that this agent can produce reports of varying and easily configurable format. [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) | [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) | [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb)
 
 # Python Libraries
 
