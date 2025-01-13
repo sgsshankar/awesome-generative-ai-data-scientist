@@ -4,8 +4,7 @@
 
 A curated list of 100+ resources to help you become a Generative AI Data Scientist. This repository includes resources on building GenAI Data Science applications with Large Language Models (LLMs) and deploying LLMs and Generative AI/ML with Cloud-based solutions.
 
-🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
-
+[**Please ⭐ us on GitHub (it takes 2 seconds and means a lot).**](awesome-generative-ai-data-scientist)
 ## Contents:
 
 - [Awesome Real World AI Use Cases](#awesome-real-world-ai-use-cases)
