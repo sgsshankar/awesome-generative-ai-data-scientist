@@ -154,6 +154,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
+- [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
 
 
 # LLM Deployment (Cloud Services)
