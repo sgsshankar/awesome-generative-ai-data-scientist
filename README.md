@@ -111,10 +111,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Docling by IBM](https://ds4sd.github.io/docling/): Parse documents and export them to the desired format with ease and speed. [Github](https://github.com/DS4SD/docling)
 - [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
 
-## Web Parsing (HTML)
+## Web Parsing (HTML) and Crawlers
 
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
 - [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
+- [GPT Crawler](https://www.builder.io/blog/custom-gpt): Crawl a site to generate knowledge files to create your own custom GPT from a URL. [Documentation](https://www.builder.io/blog/custom-gpt) | [Github](https://github.com/BuilderIO/gpt-crawler)
 
 ## Agents and Tools (Build Your Own)
 
