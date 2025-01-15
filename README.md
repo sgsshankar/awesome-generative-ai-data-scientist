@@ -21,6 +21,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
 - [Strutured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA): How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. We show that this agent can produce reports of varying and easily configurable format. [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) | [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) | [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb)
 - [Uber QueryGPT](https://www.uber.com/en-TW/blog/query-gpt/): Uber's QueryGPT uses large language models (LLM), vector databases, and similarity search to generate complex queries from English (Natural Language) questions that are provided by the user as input. The tool enhances the productivity of engineers, operations managers, and data scientists at Uber.
+- [Nir Diamant GenAI Agents](https://github.com/NirDiamant/GenAI_Agents): Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. [GitHub](https://github.com/NirDiamant/GenAI_Agents)
 
 # Python Libraries
 
