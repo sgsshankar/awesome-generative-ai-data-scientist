@@ -101,10 +101,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LitGPT](https://github.com/Lightning-AI/litgpt): 20+ high-performance LLMs with recipes to pretrain, finetune, and deploy at scale.
 - [AutoTrain](https://github.com/huggingface/autotrain-advanced): No code fine-tuning of LLMs and other machine learning tasks.
 
-## Testing and Monitoring
+## Testing and Monitoring (Observability)
 
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
 - [Opik](https://github.com/comet-ml/opik): Opik is an open-source platform for evaluating, testing and monitoring LLM applications
+- [MLflow Tracing and Evaluation](https://mlflow.org/docs/latest/llms): MLflow has a suite of features for LLMs. [MLflow LLM Documentation](https://mlflow.org/docs/latest/llms) | [Model Tracing](https://mlflow.org/docs/latest/llms/tracing/index.html) | [Model Evaluation](https://mlflow.org/docs/latest/model-evaluation/index.html) | [GitHub](https://github.com/mlflow/mlflow)
 
 ## Document Parsing
 
@@ -138,6 +139,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## LLMOps
 
+- [MLflow](): 
 - [Agenta](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. [Documentation](https://docs.agenta.ai/) 
 - [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
 - [Helicone](https://www.helicone.ai/): Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. [Documentation](https://docs.helicone.ai/) | [Github](https://github.com/Helicone/helicone)
