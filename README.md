@@ -1,3 +1,14 @@
+<div align="center">
+  <a href="https://github.com/business-science/awesome-generative-ai-data-scientist">
+    <picture>
+      <img src="/img/awesome_generative_ai_data_scientist_logo.jpg" alt="Awesome Generative AI Data Scientist" width="400">
+  </picture>
+  </a>
+</div>
+<div align="center">
+  <em>100+ Free Resources On Generative AI for Data Scientists</em>
+</div>
+
 # Awesome Generative AI Data Scientist [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > The Future is using AI and ML Together
