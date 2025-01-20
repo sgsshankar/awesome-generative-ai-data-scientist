@@ -53,6 +53,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio): IDE that enables visualization, interaction, and debugging of complex agentic applications
 - [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
 - [Pyspur](https://www.pyspur.dev/): Graph-Based Editor for LLM Workflows [Documentation]() | [Github](https://github.com/PySpur-Dev/PySpur)
+- [LangWatch](https://langwatch.ai/): Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. [Documentation](https://docs.langwatch.ai/) | [GitHub](https://github.com/langwatch/langwatch)
 
 ## LLM Providers
 
@@ -139,7 +140,8 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## LLMOps
 
-- [MLflow](): 
+- [LangWatch](https://langwatch.ai/): Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. [Documentation](https://docs.langwatch.ai/) | [GitHub](https://github.com/langwatch/langwatch)
+- [MLflow](https://mlflow.org/docs/latest/llms/tracing/index.html): MLflow Tracing for LLM Observability [Documentation](https://mlflow.org/docs/latest/llms/tracing/index.html)
 - [Agenta](https://github.com/Agenta-AI/agenta): Open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place. [Documentation](https://docs.agenta.ai/) 
 - [LLMOps](https://github.com/callmesora/llmops-python-package): Best practices designed to support your LLMOps initiatives
 - [Helicone](https://www.helicone.ai/): Open-source LLM observability platform for developers to monitor, debug, and improve production-ready applications. [Documentation](https://docs.helicone.ai/) | [Github](https://github.com/Helicone/helicone)
