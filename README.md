@@ -77,6 +77,12 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
 - [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
 
+## Open Source LLM Models
+
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1): 1st generation reasoning model that competes with OpenAI o1.
+- [Qwen](https://github.com/QwenLM/Qwen): Alibaba's Qwen models
+- [Llama](https://www.llama.com/): Meta's foundational models
+
 ## LangChain Platform
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
