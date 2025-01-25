@@ -66,6 +66,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
 - [Pyspur](https://www.pyspur.dev/): Graph-Based Editor for LLM Workflows [Documentation]() | [Github](https://github.com/PySpur-Dev/PySpur)
 - [LangWatch](https://langwatch.ai/): Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. [Documentation](https://docs.langwatch.ai/) | [GitHub](https://github.com/langwatch/langwatch)
+- [AutoGen Studio](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/index.html): AutoGen Studio is a low-code interface built to help you rapidly prototype AI agents, enhance them with tools, compose them into teams and interact with them to accomplish tasks. It is built on AutoGen AgentChat - a high-level API for building multi-agent applications. 
 
 ## LLM Providers
 
@@ -146,6 +147,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangChain Tools](https://python.langchain.com/docs/concepts/tools/): Integrate Tools (Function Calling) with LangChain.
 - [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
 - [Agentarium](https://github.com/Thytu/Agentarium): open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve. [GitHub](https://github.com/Thytu/Agentarium)
+- [AutoGen AgentChat](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html): Build applications quickly with preset agents.
 
 ## Agents and Tools (Prebuilt)
 
@@ -168,6 +170,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 ## Code Sandbox (Security)
 
 - [E2B](https://e2b.dev/): E2B is an open-source runtime for executing AI-generated code in secure cloud sandboxes. Made for agentic & AI use cases. [Documentation](https://e2b.dev/docs) | [Github]([https://github.com/e2b-dev](https://github.com/e2b-dev/e2b))
+- [AutoGen Docker Code Executor](https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.code_executors.docker.html#autogen_ext.code_executors.docker.DockerCommandLineCodeExecutor): Executes code through a command line environment in a Docker container
 
 ## Miscellaneous
 
