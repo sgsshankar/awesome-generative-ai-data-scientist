@@ -173,6 +173,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [E2B](https://e2b.dev/): E2B is an open-source runtime for executing AI-generated code in secure cloud sandboxes. Made for agentic & AI use cases. [Documentation](https://e2b.dev/docs) | [Github]([https://github.com/e2b-dev](https://github.com/e2b-dev/e2b))
 - [AutoGen Docker Code Executor](https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.code_executors.docker.html#autogen_ext.code_executors.docker.DockerCommandLineCodeExecutor): Executes code through a command line environment in a Docker container
 
+## Browser Control Agents
+
+- [Browser-Use](https://browser-use.com/): Make websites accessible for AI agents [Documentation](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use)
+
+
 ## Miscellaneous
 
 - [AI Suite](https://github.com/andrewyng/aisuite): Simple, unified interface to multiple Generative AI providers.
@@ -183,7 +188,6 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
-- [Browser-Use](https://github.com/browser-use/browser-use): Make websites accessible for AI agents
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
 
 
