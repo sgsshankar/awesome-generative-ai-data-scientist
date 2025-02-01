@@ -41,8 +41,8 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Data Science and Machine Learning
 
-- 🚀🚀  [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/): Probably the best curated list of data science software in Python [GitHub](https://github.com/krzjoa/awesome-python-data-science)
+- 🚀🚀 [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries. Updated weekly.
+- 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/): Probably the best curated list of data science software in Python [GitHub](https://github.com/krzjoa/awesome-python-data-science)
 
 ## Data Science And AI Agents
 
@@ -146,6 +146,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Gitingest](https://gitingest.com/): Turn any Git repository into a simple text ingest of its codebase. This is useful for feeding a codebase into any LLM. [Github](https://github.com/cyclotruc/gitingest)
 - [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
 - [GPT Crawler](https://www.builder.io/blog/custom-gpt): Crawl a site to generate knowledge files to create your own custom GPT from a URL. [Documentation](https://www.builder.io/blog/custom-gpt) | [Github](https://github.com/BuilderIO/gpt-crawler)
+- [ScrapeGraphAI](https://scrapegraphai.com/): A web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, Markdown, etc.). [Documentation](https://docs.scrapegraphai.com/) | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
 
 ## Agents and Tools (Build Your Own)
 
