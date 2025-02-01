@@ -64,7 +64,8 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [AutoGen](https://github.com/microsoft/autogen): Microsoft's programming framework for agentic AI.
 - [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make building production-grade applications with Generative AI less painful. [Github](https://github.com/pydantic/pydantic-ai)
 - [ControlFlow](https://controlflow.ai/): Prefect's Python framework for building agentic AI workflows. [Documentation](https://controlflow.ai/welcome) | [Github](https://github.com/PrefectHQ/ControlFlow)
-- [FlatAI](https://github.com/mindsdb/flat-ai): Frameworkless LLM Agents. 
+- [FlatAI](https://github.com/mindsdb/flat-ai): Frameworkless LLM Agents.
+- [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html): Meta (Facebook) core building blocks needed to bring generative AI applications to market. [Documenation](https://llama-stack.readthedocs.io/en/latest/index.html) | [GitHub](https://github.com/meta-llama/llama-stack)
 
 ## AI Frameworks (Drag and Drop)
 
