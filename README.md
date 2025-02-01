@@ -139,7 +139,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangChain Document Loaders](https://python.langchain.com/docs/concepts/document_loaders/): LangChain has hundreds of integrations with various data sources to load data from: Slack, Notion, Google Drive, etc.
 - [Embedchain](https://embedchain.ai/): Create an AI app on your own data in a minute [Documentation](https://docs.embedchain.ai/get-started/quickstart) [Github Repo](https://github.com/mem0ai/mem0/tree/main/embedchain)
 - [Docling by IBM](https://ds4sd.github.io/docling/): Parse documents and export them to the desired format with ease and speed. [Github](https://github.com/DS4SD/docling)
-- [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+- [Markitdown by Microsoft](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown. [GitHub](https://github.com/microsoft/markitdown)
 - [DocETL](https://www.docetl.org/): A system for agentic LLM-powered data processing and ETL. [Documentation](https://ucbepic.github.io/docetl/) | [GitHub](https://github.com/ucbepic/docetl)
 
 ## Web Parsing (HTML) and Crawlers
