@@ -86,9 +86,9 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Open Source LLM Models
 
-- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1): 1st generation reasoning model that competes with OpenAI o1.
-- [Qwen](https://github.com/QwenLM/Qwen): Alibaba's Qwen models
-- [Llama](https://www.llama.com/): Meta's foundational models
+- [DeepSeek-R1](https://www.deepseek.com/): 1st generation reasoning model that competes with OpenAI o1. [Paper](https://arxiv.org/abs/2501.12948) | [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)
+- [Qwen](https://qwenlm.github.io/): Alibaba's Qwen models [GitHub](https://github.com/QwenLM/Qwen)
+- [Llama](https://www.llama.com/): Meta's foundational models [GitHub](https://github.com/meta-llama/llama)
 
 ## LangChain Platform
 
