@@ -42,6 +42,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 ## Data Science and Machine Learning
 
 - 🚀🚀  [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/): Probably the best curated list of data science software in Python [GitHub](https://github.com/krzjoa/awesome-python-data-science)
 
 ## Data Science And AI Agents
 
