@@ -166,7 +166,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Agents and Tools (Prebuilt)
 
-- [Phidata](https://www.phidata.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.phidata.com/) | [Github](https://github.com/phidatahq/phidata)
+- [Agno (Formerly Phidata)](https://www.agno.com/): An open-source platform to build, ship and monitor agentic systems. [Documentation](https://docs.agno.com/) | [Github](https://github.com/agno-agi/agno)
 - [Composio](https://composio.dev/): Integration Platform for AI Agents & LLMs (works with LangChain, CrewAI, etc). [Documentation](https://docs.composio.dev/) | [Github](https://github.com/ComposioHQ/composio)
 
 ## LLM Memory
