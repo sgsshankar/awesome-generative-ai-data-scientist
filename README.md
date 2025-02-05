@@ -56,7 +56,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Deep Research Agents
 
-- [HuggingFace OpenDeepResearch](https://huggingface.co/blog/open-deep-research): Open version of OpenAI's Deep Research agent. [Blog](https://huggingface.co/blog/open-deep-research) | [GitHub](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research)
+- [HuggingFace OpenDeepResearch](https://huggingface.co/blog/open-deep-research): Open version of OpenAI's Deep Research agent. [Blog](https://huggingface.co/blog/open-deep-research) | [Example](https://github.com/huggingface/smolagents/blob/gaia-submission-r1/examples/open_deep_research/visual_vs_text_browser.ipynb) | [GitHub](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research)
 - [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher): AI researcher that continuously searches for information based on a user query until the system is confident that it has gathered all the necessary details.
 
 ## AI Frameworks (Build Your Own)
