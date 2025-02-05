@@ -54,6 +54,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): A framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. [Documentation](https://github.com/QwenLM/Qwen-Agent/tree/main/docs) | [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) | [Github](https://github.com/QwenLM/Qwen-Agent)
 
+## Deep Research Agents
+
+- [HuggingFace OpenDeepResearch](https://huggingface.co/blog/open-deep-research): Open version of OpenAI's Deep Research agent. [Blog](https://huggingface.co/blog/open-deep-research) | [GitHub](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research)
+- [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher): AI researcher that continuously searches for information based on a user query until the system is confident that it has gathered all the necessary details.
+
 ## AI Frameworks (Build Your Own)
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
