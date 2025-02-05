@@ -36,6 +36,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Uber QueryGPT](https://www.uber.com/en-TW/blog/query-gpt/): Uber's QueryGPT uses large language models (LLM), vector databases, and similarity search to generate complex queries from English (Natural Language) questions that are provided by the user as input. The tool enhances the productivity of engineers, operations managers, and data scientists at Uber.
 - [Nir Diamant GenAI Agents](https://github.com/NirDiamant/GenAI_Agents): Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. [GitHub](https://github.com/NirDiamant/GenAI_Agents)
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/tree/main): Real-world AI agent applications, LLM and RAG tutorials, with examples to implement. [GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main)
+- [StockChat](https://github.com/clchinkc/stockchat): An open source alternative to Perplexity Finance [GitHub](https://github.com/clchinkc/stockchat)
 
 # Python Libraries
 
