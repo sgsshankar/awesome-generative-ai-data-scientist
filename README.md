@@ -72,6 +72,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [ControlFlow](https://controlflow.ai/): Prefect's Python framework for building agentic AI workflows. [Documentation](https://controlflow.ai/welcome) | [Github](https://github.com/PrefectHQ/ControlFlow)
 - [FlatAI](https://github.com/mindsdb/flat-ai): Frameworkless LLM Agents.
 - [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html): Meta (Facebook) core building blocks needed to bring generative AI applications to market. [Documenation](https://llama-stack.readthedocs.io/en/latest/index.html) | [GitHub](https://github.com/meta-llama/llama-stack)
+- [Haystack](https://haystack.deepset.ai/): Deepset AI's open source AI orchestration framework for building customizable, production-ready LLM applications. [Documentation](https://docs.haystack.deepset.ai/docs) | [GitHub](https://github.com/deepset-ai/haystack)
 
 ## AI Frameworks (Drag and Drop)
 
