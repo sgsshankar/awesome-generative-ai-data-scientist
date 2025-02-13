@@ -78,6 +78,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Haystack](https://haystack.deepset.ai/): Deepset AI's open source AI orchestration framework for building customizable, production-ready LLM applications. [Documentation](https://docs.haystack.deepset.ai/docs) | [GitHub](https://github.com/deepset-ai/haystack)
 - [Pocket Flow](https://the-pocket.github.io/PocketFlow/): A 100-line minimalist LLM framework for Agents, Task Decomposition, RAG, etc. [Documentation](https://the-pocket.github.io/PocketFlow/) | [GitHub](https://github.com/The-Pocket/PocketFlow)
 - [Agency Swarm](https://vrsen.github.io/agency-swarm/): An open-source agent orchestration framework built on top of the latest OpenAI Assistants API. [Documentation](https://vrsen.github.io/agency-swarm/) | [GitHub](https://github.com/VRSEN/agency-swarm)
+- [Google GenAI](https://googleapis.github.io/python-genai/): Google Gen AI Python SDK provides an interface for developers to integrate Google’s generative models into their Python applications. It supports the Gemini Developer API and Vertex AI APIs. [Documentation](https://googleapis.github.io/python-genai/) | [GitHub](https://github.com/googleapis/python-genai)
 
 ## AI Frameworks (Drag and Drop)
 
