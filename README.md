@@ -28,7 +28,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # Awesome Real-World AI Use Cases
 
-- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
+- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
@@ -47,7 +47,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Data Science And AI Agents
 
-- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
+- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
 
 ## Coding Agents
