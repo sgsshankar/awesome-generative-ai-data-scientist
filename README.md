@@ -52,6 +52,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Microsoft Data Formulator](https://github.com/microsoft/data-formulator): Transform data and create rich visualizations iteratively with AI 🪄. [Paper](https://arxiv.org/abs/2408.16119) | [GitHub](https://github.com/microsoft/data-formulator)
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
+- [WrenAI](https://getwren.ai/oss): Open-source GenBI AI Agent. Text2SQL made Easy! [Documentation](https://docs.getwren.ai/oss/overview/introduction) | [GitHub](https://github.com/Canner/WrenAI)
 
 ## Coding Agents
 
