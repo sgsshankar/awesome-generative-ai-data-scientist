@@ -106,13 +106,14 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Qwen](https://qwenlm.github.io/): Alibaba's Qwen models [GitHub](https://github.com/QwenLM/Qwen)
 - [Llama](https://www.llama.com/): Meta's foundational models [GitHub](https://github.com/meta-llama/llama)
 
-## LangChain Platform
+## LangChain Ecosystem
 
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
+- [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
 
-## Huggingface Platform
+## Huggingface Ecosystem
 
 - [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
 - [Transformers](https://huggingface.co/docs/transformers): Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models.
