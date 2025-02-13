@@ -77,6 +77,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html): Meta (Facebook) core building blocks needed to bring generative AI applications to market. [Documenation](https://llama-stack.readthedocs.io/en/latest/index.html) | [GitHub](https://github.com/meta-llama/llama-stack)
 - [Haystack](https://haystack.deepset.ai/): Deepset AI's open source AI orchestration framework for building customizable, production-ready LLM applications. [Documentation](https://docs.haystack.deepset.ai/docs) | [GitHub](https://github.com/deepset-ai/haystack)
 - [Pocket Flow](https://the-pocket.github.io/PocketFlow/): A 100-line minimalist LLM framework for Agents, Task Decomposition, RAG, etc. [Documentation](https://the-pocket.github.io/PocketFlow/) | [GitHub](https://github.com/The-Pocket/PocketFlow)
+- [Agency Swarm](https://vrsen.github.io/agency-swarm/): An open-source agent orchestration framework built on top of the latest OpenAI Assistants API. [Documentation](https://vrsen.github.io/agency-swarm/) | [GitHub](https://github.com/VRSEN/agency-swarm)
 
 ## AI Frameworks (Drag and Drop)
 
