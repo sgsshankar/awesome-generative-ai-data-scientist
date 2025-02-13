@@ -180,6 +180,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 - [Mem0](https://mem0.ai/): Mem0 is a self-improving memory layer for LLM applications, enabling personalized AI experiences that save costs and delight users. [Documentation](https://docs.mem0.ai/) | [Github](https://github.com/mem0ai/mem0)
 - [Memary](https://github.com/kingjulio8238/Memary): Open Source Memory Layer For Autonomous Agents
+- [Memobase](https://www.memobase.io/): 1st User Profile-Based Memory for GenAI Apps. [Documentation](https://docs.memobase.io/introduction) | [GitHub](https://github.com/memodb-io/memobase)
 
 ## LLMOps
 
