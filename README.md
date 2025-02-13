@@ -28,7 +28,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # Awesome Real-World AI Use Cases
 
-- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
+- 🚀🚀 [AI-Powered Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
@@ -73,6 +73,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [FlatAI](https://github.com/mindsdb/flat-ai): Frameworkless LLM Agents.
 - [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html): Meta (Facebook) core building blocks needed to bring generative AI applications to market. [Documenation](https://llama-stack.readthedocs.io/en/latest/index.html) | [GitHub](https://github.com/meta-llama/llama-stack)
 - [Haystack](https://haystack.deepset.ai/): Deepset AI's open source AI orchestration framework for building customizable, production-ready LLM applications. [Documentation](https://docs.haystack.deepset.ai/docs) | [GitHub](https://github.com/deepset-ai/haystack)
+- [Pocket Flow](https://the-pocket.github.io/PocketFlow/): A 100-line minimalist LLM framework for Agents, Task Decomposition, RAG, etc. [Documentation](https://the-pocket.github.io/PocketFlow/) | [GitHub](https://github.com/The-Pocket/PocketFlow)
 
 ## AI Frameworks (Drag and Drop)
 
