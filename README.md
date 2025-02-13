@@ -163,6 +163,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Crawl4AI](https://crawl4ai.com/mkdocs/): Open-source, blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. [Documentation](https://crawl4ai.com/mkdocs/) | [Github](https://github.com/unclecode/crawl4ai)
 - [GPT Crawler](https://www.builder.io/blog/custom-gpt): Crawl a site to generate knowledge files to create your own custom GPT from a URL. [Documentation](https://www.builder.io/blog/custom-gpt) | [Github](https://github.com/BuilderIO/gpt-crawler)
 - [ScrapeGraphAI](https://scrapegraphai.com/): A web scraping python library that uses LLM and direct graph logic to create scraping pipelines for websites and local documents (XML, HTML, JSON, Markdown, etc.). [Documentation](https://docs.scrapegraphai.com/) | [GitHub](https://github.com/ScrapeGraphAI/Scrapegraph-ai)
+- [Scrapling](https://github.com/D4Vinci/Scrapling): 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python. [Github](https://github.com/D4Vinci/Scrapling)
 
 ## Agents and Tools (Build Your Own)
 
