@@ -53,6 +53,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [WrenAI](https://getwren.ai/oss): Open-source GenBI AI Agent. Text2SQL made Easy! [Documentation](https://docs.getwren.ai/oss/overview/introduction) | [GitHub](https://github.com/Canner/WrenAI)
+- [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/): Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) | [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | [GitHub](https://github.com/googleapis/genai-toolbox)
 
 ## Coding Agents
 
