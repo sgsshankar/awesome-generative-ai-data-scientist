@@ -50,8 +50,8 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
 - [Microsoft Data Formulator](https://github.com/microsoft/data-formulator): Transform data and create rich visualizations iteratively with AI 🪄. [Paper](https://arxiv.org/abs/2408.16119) | [GitHub](https://github.com/microsoft/data-formulator)
-
-
+- [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
+- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 
 ## Coding Agents
 
@@ -199,17 +199,19 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Browser-Use](https://browser-use.com/): Make websites accessible for AI agents [Documentation](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use)
 - [WebUI](https://github.com/browser-use/web-ui): Built on Gradio and supports most of `browser-use` functionalities. This UI is designed to be user-friendly and enables easy interaction with the browser agent. [GitHub](https://github.com/browser-use/web-ui)
 
+## Prompt Improvement
+
+- [Microsoft PromptWizard](https://github.com/microsoft/PromptWizard): Task-Aware Prompt Optimization Framework. Task-Aware Prompt Optimization Framework | [GitHub](https://github.com/microsoft/PromptWizard)
+- [PromptFify](https://github.com/promptslab/Promptify): A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
+- [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
+
 
 ## Miscellaneous
 
 - [AI Suite](https://github.com/andrewyng/aisuite): Simple, unified interface to multiple Generative AI providers.
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow): The library to build & auto-optimize LLM applications, from Chatbot, RAG, to Agent by SylphAI.
 - [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models.
-- [AutoPrompt](https://github.com/Eladlev/AutoPrompt): A framework for prompt tuning using Intent-based Prompt Calibration.
-- [PromptFify](https://github.com/promptslab/Promptify): A library for prompt engineering that simplifies NLP tasks (e.g., NER, classification) using LLMs like GPT.
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
-- [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
-- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
 
 
