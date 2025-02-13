@@ -49,6 +49,9 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 - 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
 - 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
+- [Microsoft Data Formulator](https://github.com/microsoft/data-formulator): Transform data and create rich visualizations iteratively with AI 🪄. [Paper](https://arxiv.org/abs/2408.16119) | [GitHub](https://github.com/microsoft/data-formulator)
+
+
 
 ## Coding Agents
 
