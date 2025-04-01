@@ -112,10 +112,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
 - [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
-- [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
 
 ## LangGraph Extensions
-- [](): 
+- [LangMem](https://github.com/langchain-ai/langmem): LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. [GitHub](https://github.com/langchain-ai/langmem)
+- [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
+
 
 ## Huggingface Ecosystem
 
