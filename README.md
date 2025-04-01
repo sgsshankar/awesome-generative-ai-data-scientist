@@ -161,10 +161,12 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## LangGraph Extensions
 
+- [LangGraph Prebuilt Agents](https://langchain-ai.github.io/langgraph/prebuilt/): Prebuilt agents for LangGraph (includes 3rd Party LangGraph extensions)
 - [LangMem](https://github.com/langchain-ai/langmem): LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. [GitHub](https://github.com/langchain-ai/langmem)
 - [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
 - [Open Deep Research](https://github.com/langchain-ai/open_deep_research): An open source assistant that automates research and produces customizable reports on any topic.
-
+- [LangGraph Reflection](https://github.com/langchain-ai/langgraph-reflection): This prebuilt graph is an agent that uses a reflection-style architecture to check and improve an initial agent's output. [GitHub](https://github.com/langchain-ai/langgraph-reflection)
+- [LangGraph Big Tool](https://github.com/langchain-ai/langgraph-bigtool): Create LangGraph agents that can access large numbers of tools [GitHub](https://github.com/langchain-ai/langgraph-bigtool)
 
 ## Huggingface Ecosystem
 
