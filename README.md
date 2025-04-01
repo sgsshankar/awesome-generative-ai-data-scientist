@@ -229,6 +229,36 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
 - [Microsoft Tiny Troupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights. [GitHub](https://github.com/microsoft/TinyTroupe)
 
+# R Libraries
+
+## R LLM Package Compilations
+
+- [LLM tools for R](https://luisdva.github.io/llmsr-book/r-pkgs.html): An ongoing roundup of useful developments in the LLM/genAI space, with a specific focus on R.
+
+## Ellmer-Verse
+
+- [ellmer](https://ellmer.tidyverse.org/): Makes it easy to use large language models (LLM) from R. It supports a wide variety of LLM providers and implements a rich set of features including streaming outputs, tool/function calling, structured data extraction, and more.
+- [hellmer](https://dylanpieper.github.io/hellmer/): Enable sequential and parallel batch processing for chat models supported by ellmer
+- [chores](https://simonpcouch.github.io/chores/): Provides a library of ergonomic LLM assistants designed to help you complete repetitive, hard-to-automate tasks quickly
+- [ggpal](https://github.com/frankiethull/ggpal2): LLM assistant specifically for ggplot2
+- [gander](https://simonpcouch.github.io/gander/): A high-performance and low-friction chat experience for data scientists in RStudio and Positron–sort of like completions with Copilot, but it knows how to talk to the objects in your R environment.
+
+## Other Popular Interfaces to LLM Models in R
+
+- [chatgpt](https://github.com/jcrodriguez1989/chatgpt): Interface with models from OpenAI to get assistance while coding
+- [groqR](https://gabrielkaiserqfin.github.io/groqR): Brings GroqCloud’s lightning-fast LPU (Language Processing Unit) technology directly to your R workflow
+- [gptstudio](https://michelnivard.github.io/gptstudio/): Easily incorporate use of large language models (LLMs) into their project workflows
+- [llmR](https://github.com/bakaburg1/llmR): R interface to various Large Language Models (LLMs) such as OpenAI’s GPT models, Azure’s language models, Google’s Gemini models, or custom local servers
+- [tidychatmodels](https://tidychatmodels.albert-rapp.de/): A simple interface to chat with your favorite AI chatbot from R inspired by tidymodels where you can easily swap out any ML model for another one but keep the other parts of the workflow the same.
+- [tidyllm](https://edubruell.github.io/tidyllm/): Access various large language model APIs, including Anthropic Claude, OpenAI,Google Gemini, Perplexity,Groq, Mistral, and local models via Ollama or OpenAI-compatible APIs.
+- [gemini.R](https://jhk0530.github.io/gemini.R/): R package to use Google’s gemini via API on R
+- [PerplexR](https://github.com/GabrielKaiserQFin/PerplexR/): Intuitive interface for leveraging the capabilities of the Perplexity API Pro subscription
+- [ollama-r](https://hauselin.github.io/ollama-r/): The easiest way to integrate R with Ollama, which lets you run language models locally on your own machine
+- [rollama](https://jbgruber.github.io/rollama/): Wraps the Ollama API, which allows you to run different LLMs locally and create an experience similar to ChatGPT/OpenAI’s API
+
+## RAG in R
+
+- [Ragnar](https://tidyverse.github.io/ragnar/): Helps implement Retrieval-Augmented Generation (RAG) workflows
 
 # LLM Deployment (Cloud Services)
 
