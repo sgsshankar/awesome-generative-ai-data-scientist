@@ -59,6 +59,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
   - [RAG in R](#rag-in-r)
 - [LLM Deployment (Cloud Services)](#llm-deployment-cloud-services)
 - [Examples and Cookbooks](#examples-and-cookbooks)
+  - [GitHub Repositiories](#github-repositiories)
   - [Building AI](#building-ai)
   - [Deploying AI](#deploying-ai)
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
@@ -331,6 +332,10 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [NVIDIA NIM](https://www.nvidia.com/en-us/ai): NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations.
 
 # Examples and Cookbooks
+
+## GitHub Repositiories
+
+- [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit): This repository contains a curated list of 120+ LLM libraries category wise.
 
 ## Building AI
 
