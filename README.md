@@ -209,6 +209,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 - [Browser-Use](https://browser-use.com/): Make websites accessible for AI agents [Documentation](https://docs.browser-use.com/) | [GitHub](https://github.com/browser-use/browser-use)
 - [WebUI](https://github.com/browser-use/web-ui): Built on Gradio and supports most of `browser-use` functionalities. This UI is designed to be user-friendly and enables easy interaction with the browser agent. [GitHub](https://github.com/browser-use/web-ui)
+- [WebRover](https://github.com/hrithikkoduri/WebRover): WebRover is an AI-powered web agent that combines autonomous browsing with advanced research capabilities. [GitHub](https://github.com/hrithikkoduri/WebRover)
 
 ## Prompt Improvement
 
