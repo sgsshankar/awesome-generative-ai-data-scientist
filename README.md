@@ -114,6 +114,9 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
 - [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
 
+## LangGraph Extensions
+- [](): 
+
 ## Huggingface Ecosystem
 
 - [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
@@ -151,6 +154,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangWatch](https://langwatch.ai/): Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. [Documentation](https://docs.langwatch.ai/) | [GitHub](https://github.com/langwatch/langwatch)
 - [Opik](https://github.com/comet-ml/opik): Opik is an open-source platform for evaluating, testing and monitoring LLM applications
 - [MLflow Tracing and Evaluation](https://mlflow.org/docs/latest/llms): MLflow has a suite of features for LLMs. [MLflow LLM Documentation](https://mlflow.org/docs/latest/llms) | [Model Tracing](https://mlflow.org/docs/latest/llms/tracing/index.html) | [Model Evaluation](https://mlflow.org/docs/latest/model-evaluation/index.html) | [GitHub](https://github.com/mlflow/mlflow)
+- [Langfuse](https://langfuse.com/): Traces, evals, prompt management and metrics to debug and improve your LLM application. [Documentation](https://langfuse.com/docs) | [GitHub](https://github.com/langfuse/langfuse)
 
 ## Document Parsing
 
