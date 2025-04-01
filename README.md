@@ -162,11 +162,15 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 ## LangGraph Extensions
 
 - [LangGraph Prebuilt Agents](https://langchain-ai.github.io/langgraph/prebuilt/): Prebuilt agents for LangGraph (includes 3rd Party LangGraph extensions)
+- [AI Data Science Team](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 - [LangMem](https://github.com/langchain-ai/langmem): LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. [GitHub](https://github.com/langchain-ai/langmem)
 - [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
-- [Open Deep Research](https://github.com/langchain-ai/open_deep_research): An open source assistant that automates research and produces customizable reports on any topic.
+- [Open Deep Research](https://github.com/langchain-ai/open_deep_research): An open source assistant that automates research and produces customizable reports on any topic. [GitHub](https://github.com/langchain-ai/open_deep_research)
 - [LangGraph Reflection](https://github.com/langchain-ai/langgraph-reflection): This prebuilt graph is an agent that uses a reflection-style architecture to check and improve an initial agent's output. [GitHub](https://github.com/langchain-ai/langgraph-reflection)
 - [LangGraph Big Tool](https://github.com/langchain-ai/langgraph-bigtool): Create LangGraph agents that can access large numbers of tools [GitHub](https://github.com/langchain-ai/langgraph-bigtool)
+- [LangGraph CodeAct](https://github.com/langchain-ai/langgraph-codeact): This library implements the CodeAct architecture in LangGraph. This is the architecture is used by Manus.im. [GitHub](https://github.com/langchain-ai/langgraph-codeact)
+- [LangGraph Swarm](https://github.com/langchain-ai/langgraph-swarm-py): Create swarm-style multi-agent systems using LangGraph. A swarm is a type of multi-agent architecture where agents dynamically hand off control to one another based on their specializations. [GitHub](https://github.com/langchain-ai/langgraph-swarm-py)
+- [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters): Provides a lightweight wrapper that makes Anthropic Model Context Protocol (MCP) tools compatible with LangChain and LangGraph. [GitHub](https://github.com/langchain-ai/langchain-mcp-adapters)
 
 ## Huggingface Ecosystem
 
