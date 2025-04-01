@@ -78,7 +78,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
 - [Strutured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA): How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. We show that this agent can produce reports of varying and easily configurable format. [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) | [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) | [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb)
 - [Uber QueryGPT](https://www.uber.com/en-TW/blog/query-gpt/): Uber's QueryGPT uses large language models (LLM), vector databases, and similarity search to generate complex queries from English (Natural Language) questions that are provided by the user as input. The tool enhances the productivity of engineers, operations managers, and data scientists at Uber.
-- [Nir Diamant GenAI Agents](https://github.com/NirDiamant/GenAI_Agents): Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. [GitHub](https://github.com/NirDiamant/GenAI_Agents)
+- [Nir Diamant GenAI Agents Hub](https://github.com/NirDiamant/GenAI_Agents): Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. [GitHub](https://github.com/NirDiamant/GenAI_Agents)
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/tree/main): Real-world AI agent applications, LLM and RAG tutorials, with examples to implement. [GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main)
 - [StockChat](https://github.com/clchinkc/stockchat): An open source alternative to Perplexity Finance [GitHub](https://github.com/clchinkc/stockchat)
 
@@ -126,6 +126,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Agency Swarm](https://vrsen.github.io/agency-swarm/): An open-source agent orchestration framework built on top of the latest OpenAI Assistants API. [Documentation](https://vrsen.github.io/agency-swarm/) | [GitHub](https://github.com/VRSEN/agency-swarm)
 - [Google GenAI](https://googleapis.github.io/python-genai/): Google Gen AI Python SDK provides an interface for developers to integrate Google’s generative models into their Python applications. It supports the Gemini Developer API and Vertex AI APIs. [Documentation](https://googleapis.github.io/python-genai/) | [GitHub](https://github.com/googleapis/python-genai)
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone. [GitHub](https://github.com/HKUDS/AutoAgent)
+- [Legion](https://legion.llmp.io/): Legion is a flexible and provider-agnostic framework designed to simplify the creation of sophisticated multi-agent systems. [Documentation](https://legion.llmp.io/docs) | [GitHub](https://github.com/LLMP-io/Legion)
 
 ## AI Frameworks (Drag and Drop)
 
@@ -159,8 +160,10 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
 
 ## LangGraph Extensions
+
 - [LangMem](https://github.com/langchain-ai/langmem): LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. [GitHub](https://github.com/langchain-ai/langmem)
 - [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
+- [Open Deep Research](https://github.com/langchain-ai/open_deep_research): An open source assistant that automates research and produces customizable reports on any topic.
 
 
 ## Huggingface Ecosystem
@@ -272,6 +275,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
 - [Microsoft Tiny Troupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights. [GitHub](https://github.com/microsoft/TinyTroupe)
+- [Distributed Llama](https://github.com/b4rtaz/distributed-llama): Connect home devices into a powerful cluster to accelerate LLM inference. [GitHub](https://github.com/b4rtaz/distributed-llama)
 
 # R Libraries
 
