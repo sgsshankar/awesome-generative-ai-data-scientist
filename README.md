@@ -243,6 +243,12 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [ggpal](https://github.com/frankiethull/ggpal2): LLM assistant specifically for ggplot2
 - [gander](https://simonpcouch.github.io/gander/): A high-performance and low-friction chat experience for data scientists in RStudio and Positron–sort of like completions with Copilot, but it knows how to talk to the objects in your R environment.
 
+## mlverse
+
+- [mall](https://mlverse.github.io/mall/): Run multiple LLM predictions against a data frame. The predictions are processed row-wise over a specified column.
+- [lang](https://mlverse.github.io/lang/): Use an LLM to translate a function’s help documentation on-the-fly
+- [chattr](https://mlverse.github.io/chattr/): An interface to LLMs (Large Language Models)
+
 ## Other Popular Interfaces to LLM Models in R
 
 - [chatgpt](https://github.com/jcrodriguez1989/chatgpt): Interface with models from OpenAI to get assistance while coding
