@@ -226,6 +226,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models.
 - [LiteLLM](https://github.com/BerriAI/litellm): Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format.
 - [AI Agent Service Toolkit](https://github.com/JoshuaC215/agent-service-toolkit): Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit [App](https://agent-service-toolkit.streamlit.app/) | [GitHub](https://github.com/JoshuaC215/agent-service-toolkit)
+- [Microsoft Tiny Troupe](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights. [GitHub](https://github.com/microsoft/TinyTroupe)
 
 
 # LLM Deployment (Cloud Services)
