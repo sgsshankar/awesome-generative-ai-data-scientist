@@ -98,6 +98,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
 - [WrenAI](https://getwren.ai/oss): Open-source GenBI AI Agent. Text2SQL made Easy! [Documentation](https://docs.getwren.ai/oss/overview/introduction) | [GitHub](https://github.com/Canner/WrenAI)
 - [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/): Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) | [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | [GitHub](https://github.com/googleapis/genai-toolbox)
+- [Vanna AI](https://vanna.ai/): The fastest way to get actionable insights from your SQL database just by asking questions [Documentation](https://vanna.ai/docs/) | [GitHub](https://github.com/vanna-ai/vanna)
 
 ## Coding Agents
 
@@ -140,6 +141,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 ## LLM Providers
 
 - [OpenAI](https://github.com/openai/openai-python): The official Python library for the OpenAI API
+- [OpenAI Agents](https://github.com/openai/openai-agents-python): The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows.
 - [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
 - [Anthropic Claude](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
 - [Meta Llama Models](https://llama.meta.com/): The open source AI model you can fine-tune, distill and deploy anywhere.
@@ -187,6 +189,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 - [Qdrant](https://qdrant.tech/): High-Performance Vector Search at Scale
 - [Pinecone](https://github.com/pinecone-io/pinecone-python-client): The official Pinecone Python SDK.
 - [Milvus](https://github.com/milvus-io/milvus): Milvus is an open-source vector database built to power embedding similarity search and AI applications. 
+- [SQLite Vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere! [GitHub](https://github.com/asg017/sqlite-vec)
 
 ## Pretraining
 
