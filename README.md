@@ -26,7 +26,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
   - [Table of Contents](#table-of-contents)
 - [Awesome Real-World AI Use Cases](#awesome-real-world-ai-use-cases)
 - [Python Libraries](#python-libraries)
-  - [Data Science and Machine Learning](#data-science-and-machine-learning)
+  - [Python AI, Data Science, and ML Compilations](#python-ai-data-science-and-ml-compilations)
   - [Data Science And AI Agents](#data-science-and-ai-agents)
   - [Coding Agents](#coding-agents)
   - [Deep Research Agents](#deep-research-agents)
@@ -60,7 +60,6 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
   - [RAG in R](#rag-in-r)
 - [LLM Deployment (Cloud Services)](#llm-deployment-cloud-services)
 - [Examples and Cookbooks](#examples-and-cookbooks)
-  - [GitHub Repositiories](#github-repositiories)
   - [Building AI](#building-ai)
   - [Deploying AI](#deploying-ai)
   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
@@ -88,10 +87,11 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # Python Libraries
 
-## Data Science and Machine Learning
+## Python AI, Data Science, and ML Compilations
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
+| [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) | A curated list of 120+ LLM libraries organized by category. | [GitHub](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) |
 | 🚀🚀 [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python) | A ranked list of awesome machine learning Python libraries. Updated weekly. | [GitHub](https://github.com/ml-tooling/best-of-ml-python) |
 | 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/) | Probably the best curated list of data science software in Python. | [GitHub](https://github.com/krzjoa/awesome-python-data-science) |
 
@@ -269,8 +269,6 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python. | [GitHub](https://github.com/D4Vinci/Scrapling) |
 | [Firecrawl](https://www.firecrawl.dev/) | 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, and extract with a single API. | [Documentation](https://docs.firecrawl.dev/) \| [GitHub](https://github.com/mendableai/firecrawl) |
 
-
-
 ## Agents and Tools (Build Your Own)
 
 | **Project** | **Description** | **Links** |
@@ -347,92 +345,116 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## R LLM Package Compilations
 
-- [LLM tools for R](https://luisdva.github.io/llmsr-book/r-pkgs.html): An ongoing roundup of useful developments in the LLM/genAI space, with a specific focus on R.
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [LLM tools for R](https://luisdva.github.io/llmsr-book/r-pkgs.html) | An ongoing roundup of useful developments in the LLM/genAI space, with a specific focus on R. | [Website](https://luisdva.github.io/llmsr-book/r-pkgs.html) |
 
 ## Ellmer-Verse
 
-- [ellmer](https://ellmer.tidyverse.org/): Makes it easy to use large language models (LLM) from R. It supports a wide variety of LLM providers and implements a rich set of features including streaming outputs, tool/function calling, structured data extraction, and more.
-- [hellmer](https://dylanpieper.github.io/hellmer/): Enable sequential and parallel batch processing for chat models supported by ellmer
-- [chores](https://simonpcouch.github.io/chores/): Provides a library of ergonomic LLM assistants designed to help you complete repetitive, hard-to-automate tasks quickly
-- [ggpal](https://github.com/frankiethull/ggpal2): LLM assistant specifically for ggplot2
-- [gander](https://simonpcouch.github.io/gander/): A high-performance and low-friction chat experience for data scientists in RStudio and Positron–sort of like completions with Copilot, but it knows how to talk to the objects in your R environment.
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [ellmer](https://ellmer.tidyverse.org/) | Makes it easy to use large language models (LLM) from R. It supports a wide variety of LLM providers and implements a rich set of features including streaming outputs, tool/function calling, structured data extraction, and more. | [Website](https://ellmer.tidyverse.org/) |
+| [hellmer](https://dylanpieper.github.io/hellmer/) | Enables sequential and parallel batch processing for chat models supported by ellmer. | [Documentation](https://dylanpieper.github.io/hellmer/) |
+| [chores](https://simonpcouch.github.io/chores/) | Provides a library of ergonomic LLM assistants designed to help you complete repetitive, hard-to-automate tasks quickly. | [Documentation](https://simonpcouch.github.io/chores/) |
+| [ggpal](https://github.com/frankiethull/ggpal2) | LLM assistant specifically for ggplot2. | [GitHub](https://github.com/frankiethull/ggpal2) |
+| [gander](https://simonpcouch.github.io/gander/) | A high-performance and low-friction chat experience for data scientists in RStudio and Positron–sort of like completions with Copilot, but it knows how to talk to the objects in your R environment. | [Documentation](https://simonpcouch.github.io/gander/) |
 
 ## mlverse
 
-- [mall](https://mlverse.github.io/mall/): Run multiple LLM predictions against a data frame. The predictions are processed row-wise over a specified column.
-- [lang](https://mlverse.github.io/lang/): Use an LLM to translate a function’s help documentation on-the-fly
-- [chattr](https://mlverse.github.io/chattr/): An interface to LLMs (Large Language Models)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [mall](https://mlverse.github.io/mall/) | Run multiple LLM predictions against a data frame. The predictions are processed row-wise over a specified column. | [Website](https://mlverse.github.io/mall/) |
+| [lang](https://mlverse.github.io/lang/) | Use an LLM to translate a function’s help documentation on-the-fly. | [Website](https://mlverse.github.io/lang/) |
+| [chattr](https://mlverse.github.io/chattr/) | An interface to LLMs (Large Language Models). | [Website](https://mlverse.github.io/chattr/) |
 
 ## Other Popular Interfaces to LLM Models in R
 
-- [chatgpt](https://github.com/jcrodriguez1989/chatgpt): Interface with models from OpenAI to get assistance while coding
-- [groqR](https://gabrielkaiserqfin.github.io/groqR): Brings GroqCloud’s lightning-fast LPU (Language Processing Unit) technology directly to your R workflow
-- [gptstudio](https://michelnivard.github.io/gptstudio/): Easily incorporate use of large language models (LLMs) into their project workflows
-- [llmR](https://github.com/bakaburg1/llmR): R interface to various Large Language Models (LLMs) such as OpenAI’s GPT models, Azure’s language models, Google’s Gemini models, or custom local servers
-- [tidychatmodels](https://tidychatmodels.albert-rapp.de/): A simple interface to chat with your favorite AI chatbot from R inspired by tidymodels where you can easily swap out any ML model for another one but keep the other parts of the workflow the same.
-- [tidyllm](https://edubruell.github.io/tidyllm/): Access various large language model APIs, including Anthropic Claude, OpenAI,Google Gemini, Perplexity,Groq, Mistral, and local models via Ollama or OpenAI-compatible APIs.
-- [gemini.R](https://jhk0530.github.io/gemini.R/): R package to use Google’s gemini via API on R
-- [PerplexR](https://github.com/GabrielKaiserQFin/PerplexR/): Intuitive interface for leveraging the capabilities of the Perplexity API Pro subscription
-- [ollama-r](https://hauselin.github.io/ollama-r/): The easiest way to integrate R with Ollama, which lets you run language models locally on your own machine
-- [rollama](https://jbgruber.github.io/rollama/): Wraps the Ollama API, which allows you to run different LLMs locally and create an experience similar to ChatGPT/OpenAI’s API
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [chatgpt](https://github.com/jcrodriguez1989/chatgpt) | Interface with models from OpenAI to get assistance while coding. | [GitHub](https://github.com/jcrodriguez1989/chatgpt) |
+| [groqR](https://gabrielkaiserqfin.github.io/groqR) | Brings GroqCloud’s lightning-fast LPU (Language Processing Unit) technology directly to your R workflow. | [Website](https://gabrielkaiserqfin.github.io/groqR) |
+| [gptstudio](https://michelnivard.github.io/gptstudio/) | Easily incorporate use of large language models (LLMs) into their project workflows. | [Website](https://michelnivard.github.io/gptstudio/) |
+| [llmR](https://github.com/bakaburg1/llmR) | R interface to various Large Language Models (LLMs) such as OpenAI’s GPT models, Azure’s language models, Google’s Gemini models, or custom local servers. | [GitHub](https://github.com/bakaburg1/llmR) |
+| [tidychatmodels](https://tidychatmodels.albert-rapp.de/) | A simple interface to chat with your favorite AI chatbot from R, inspired by tidymodels where you can easily swap out any ML model for another one but keep the other parts of the workflow the same. | [Website](https://tidychatmodels.albert-rapp.de/) |
+| [tidyllm](https://edubruell.github.io/tidyllm/) | Access various large language model APIs, including Anthropic Claude, OpenAI, Google Gemini, Perplexity, Groq, Mistral, and local models via Ollama or OpenAI-compatible APIs. | [Website](https://edubruell.github.io/tidyllm/) |
+| [gemini.R](https://jhk0530.github.io/gemini.R/) | R package to use Google’s Gemini via API on R. | [Website](https://jhk0530.github.io/gemini.R/) |
+| [PerplexR](https://github.com/GabrielKaiserQFin/PerplexR/) | Intuitive interface for leveraging the capabilities of the Perplexity API Pro subscription. | [GitHub](https://github.com/GabrielKaiserQFin/PerplexR/) |
+| [ollama-r](https://hauselin.github.io/ollama-r/) | The easiest way to integrate R with Ollama, which lets you run language models locally on your own machine. | [Website](https://hauselin.github.io/ollama-r/) |
+| [rollama](https://jbgruber.github.io/rollama/) | Wraps the Ollama API, which allows you to run different LLMs locally and create an experience similar to ChatGPT/OpenAI’s API. | [Website](https://jbgruber.github.io/rollama/) |
 
 ## RAG in R
 
-- [Ragnar](https://tidyverse.github.io/ragnar/): Helps implement Retrieval-Augmented Generation (RAG) workflows
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [Ragnar](https://tidyverse.github.io/ragnar/) | Helps implement Retrieval-Augmented Generation (RAG) workflows. | [Website](https://tidyverse.github.io/ragnar/) |
 
 # LLM Deployment (Cloud Services)
 
-- [AWS Bedrock](https://aws.amazon.com/bedrock/): Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon
-- [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services): Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and prebuilt and customizable APIs and models. 
-- [Google Vertex AI](https://cloud.google.com/vertex-ai): Vertex AI is a fully-managed, unified AI development platform for building and using generative AI.
-- [NVIDIA NIM](https://www.nvidia.com/en-us/ai): NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations.
+| **Service** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| **AWS Bedrock** | Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models (FMs) from leading AI companies like AI21 Labs, Anthropic, Cohere, Meta, Mistral AI, Stability AI, and Amazon. | [AWS Bedrock](https://aws.amazon.com/bedrock/) |
+| **Microsoft Azure AI Services** | Azure AI services help developers and organizations rapidly create intelligent, cutting-edge, market-ready, and responsible applications with out-of-the-box and prebuilt and customizable APIs and models. | [Microsoft Azure AI Services](https://azure.microsoft.com/en-us/products/ai-services) |
+| **Google Vertex AI** | Vertex AI is a fully-managed, unified AI development platform for building and using generative AI. | [Google Vertex AI](https://cloud.google.com/vertex-ai) |
+| **NVIDIA NIM** | NVIDIA NIM™, part of NVIDIA AI Enterprise, provides containers to self-host GPU-accelerated inferencing microservices for pretrained and customized AI models across clouds, data centers, and workstations. | [NVIDIA NIM](https://www.nvidia.com/en-us/ai) |
 
 # Examples and Cookbooks
 
-## GitHub Repositiories
-
-- [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit): This repository contains a curated list of 120+ LLM libraries category wise.
-
 ## Building AI
 
-- [LangChain Cookbook](https://github.com/langchain-ai/langchain/blob/master/cookbook/README.md): Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples.
-- [LangGraph Examples](https://github.com/langchain-ai/langgraph/tree/main/examples): Example code for building applications with LangGraph
-- [Llama Index Examples](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples): Example code for building applications with Llama Index
-- [Streamlit LLM Examples](https://github.com/streamlit/llm-examples): Streamlit LLM app examples for getting started
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| **LangChain Cookbook** | Example code for building applications with LangChain, with an emphasis on more applied and end-to-end examples. | [GitHub](https://github.com/langchain-ai/langchain/blob/master/cookbook/README.md) |
+| **LangGraph Examples** | Example code for building applications with LangGraph. | [GitHub](https://github.com/langchain-ai/langgraph/tree/main/examples) |
+| **Llama Index Examples** | Example code for building applications with Llama Index. | [GitHub](https://github.com/run-llama/llama_index/tree/main/docs/docs/examples) |
+| **Streamlit LLM Examples** | Streamlit LLM app examples for getting started. | [GitHub](https://github.com/streamlit/llm-examples) |
 
 ## Deploying AI
 
 ## Amazon Web Services (AWS)
 
-- [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai): Prompt Flow and RAG Examples for use with the Microsoft Azure Cloud platform
-- [Amazon Bedrock Workshop](https://github.com/aws-samples/amazon-bedrock-workshop): Introduces how to leverage foundation models (FMs) through Amazon Bedrock
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| **Amazon Bedrock Workshop** | Introduces how to leverage foundation models (FMs) through Amazon Bedrock. | [GitHub](https://github.com/aws-samples/amazon-bedrock-workshop) |
 
 ## Microsoft Azure
 
-- [Microsoft Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) 21 Lessons teaching everything you need to know to start building Generative AI applications [Github](https://github.com/microsoft/generative-ai-for-beginners)
-- [Microsoft Intro to Generative AI Course](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) 
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [Microsoft Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) | 21 lessons teaching everything you need to know to start building Generative AI applications. | [GitHub](https://github.com/microsoft/generative-ai-for-beginners) |
+| [Microsoft Intro to Generative AI Course](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) | A comprehensive introduction to Generative AI concepts and applications. | [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/introduction-generative-ai/) |
+| [Azure Generative AI Examples](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai) | Prompt Flow and RAG examples for use with the Microsoft Azure Cloud platform. | [GitHub](https://github.com/Azure/azureml-examples/tree/main/sdk/python/generative-ai) |
 
 ## Google Cloud Platform (GCP)
 
-- [Google Vertex AI Examples](https://github.com/GoogleCloudPlatform/vertex-ai-samples): Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI
-- [Google Generative AI Examples](https://github.com/GoogleCloudPlatform/generative-ai): Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| **Google Vertex AI Examples** | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop, and manage machine learning and generative AI workflows using Google Cloud Vertex AI. | [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) |
+| **Google Generative AI Examples** | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI. | [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) |
 
 ## NVIDIA 
 
-- [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere): An entry point for developing with NIMs that natively scales out to full-sized labs and up to production environments.
-- [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy): Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments.
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [NVIDIA NIM Anywhere](https://github.com/NVIDIA/nim-anywhere) | An entry point for developing with NIMs that natively scales out to full-sized labs and up to production environments. | [GitHub](https://github.com/NVIDIA/nim-anywhere) |
+| [NVIDIA NIM Deploy](https://github.com/NVIDIA/nim-deploy) | Reference implementations, example documents, and architecture guides that can be used as a starting point to deploy multiple NIMs and other NVIDIA microservices into Kubernetes and other production deployment environments. | [GitHub](https://github.com/NVIDIA/nim-deploy) |
 
 # Newsletters
 
-- [Python AI/ML Tips](https://github.com/business-science/free-ai-tips): Free newsletter on Generative AI and Data Science.
-- [unwind ai](https://www.theunwindai.com/): Latest AI news, tools, and tutorials for AI Developers
+| **Newsletter** | **Description** | **Links** |
+|-----------------|------------------|-----------|
+| [Python AI/ML Tips](https://github.com/business-science/free-ai-tips) | Free newsletter on Generative AI and Data Science. | [GitHub](https://github.com/business-science/free-ai-tips) |
+| [unwind ai](https://www.theunwindai.com/) | Latest AI news, tools, and tutorials for AI Developers. | [Website](https://www.theunwindai.com/) |
 
 # Courses and Training
 
 ## Free Training
 
-- [Generative AI Data Scientist Workshops](https://learn.business-science.io/ai-register) Get free training on how to build and deploy Generative AI / ML Solutions. [Register for the next free workshop here.](https://learn.business-science.io/ai-register)
+| **Workshop** | **Description** | **Links** |
+|--------------|------------------|-----------|
+| **Generative AI Data Scientist Workshops** | Get free training on how to build and deploy Generative AI / ML Solutions. | [Register for the next free workshop here.](https://learn.business-science.io/ai-register) |
 
 ## Paid Courses
 
-- [8-Week AI Bootcamp To Become A Generative AI-Data Scientist](https://learn.business-science.io/generative-ai-bootcamp-enroll): Focused on helping you become a Generative AI Data Scientist. Learn How To Build and Deploy AI-Powered Data Science Solutions using LangChain, LangGraph, Pandas, Scikit Learn, Streamlit, AWS, Bedrock, and EC2.
+| **Course** | **Description** | **Links** |
+|------------|------------------|-----------|
+| **8-Week AI Bootcamp To Become A Generative AI-Data Scientist** | Focused on helping you become a Generative AI Data Scientist. Learn how to build and deploy AI-powered data science solutions using LangChain, LangGraph, Pandas, Scikit Learn, Streamlit, AWS, Bedrock, and EC2. | [Enroll Here](https://learn.business-science.io/generative-ai-bootcamp-enroll) |
