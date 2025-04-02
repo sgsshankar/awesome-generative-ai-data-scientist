@@ -144,73 +144,89 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## AI Frameworks (Drag and Drop)
 
-- [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio): IDE that enables visualization, interaction, and debugging of complex agentic applications
-- [Langflow](https://www.langflow.org/): A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. [Documentation](https://docs.langflow.org/) | [Github](https://github.com/langflow-ai/langflow)
-- [Pyspur](https://www.pyspur.dev/): Graph-Based Editor for LLM Workflows [Documentation](https://docs.pyspur.dev/introduction) | [Github](https://github.com/PySpur-Dev/PySpur)
-- [LangWatch](https://langwatch.ai/): Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. [Documentation](https://docs.langwatch.ai/) | [GitHub](https://github.com/langwatch/langwatch)
-- [AutoGen Studio](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/index.html): AutoGen Studio is a low-code interface built to help you rapidly prototype AI agents, enhance them with tools, compose them into teams and interact with them to accomplish tasks. It is built on AutoGen AgentChat - a high-level API for building multi-agent applications.
-- [n8n](https://n8n.io/): Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. [Documentation](https://docs.n8n.io/) | [GitHub](https://github.com/n8n-io/n8n)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [LangGraph Studio](https://github.com/langchain-ai/langgraph-studio) | IDE that enables visualization, interaction, and debugging of complex agentic applications. | [GitHub](https://github.com/langchain-ai/langgraph-studio) |
+| [Langflow](https://www.langflow.org/) | A low-code tool that makes building powerful AI agents and workflows that can use any API, model, or database easier. | [Documentation](https://docs.langflow.org/) \| [GitHub](https://github.com/langflow-ai/langflow) |
+| [Pyspur](https://www.pyspur.dev/) | Graph-Based Editor for LLM Workflows. | [Documentation](https://docs.pyspur.dev/introduction) \| [GitHub](https://github.com/PySpur-Dev/PySpur) |
+| [LangWatch](https://langwatch.ai/) | Monitor, Evaluate & Optimize your LLM performance with 1-click. Drag and drop interface for LLMOps platform. | [Documentation](https://docs.langwatch.ai/) \| [GitHub](https://github.com/langwatch/langwatch) |
+| [AutoGen Studio](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/index.html) | A low-code interface to rapidly prototype AI agents, enhance them with tools, compose them into teams, and interact with them to accomplish tasks. Built on AutoGen AgentChat. | [Documentation](https://microsoft.github.io/autogen/stable/user-guide/autogenstudio-user-guide/index.html) |
+| [n8n](https://n8n.io/) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | [Documentation](https://docs.n8n.io/) \| [GitHub](https://github.com/n8n-io/n8n) |
 
 ## LLM Providers
 
-- [OpenAI](https://github.com/openai/openai-python): The official Python library for the OpenAI API
-- [OpenAI Agents](https://github.com/openai/openai-agents-python): The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows.
-- [Hugging Face Models](https://huggingface.co/models): Open LLM models by Meta, Mistral, and hundreds of other providers
-- [Anthropic Claude](https://github.com/anthropics/anthropic-sdk-python): The official Python library for the Anthropic API
-- [Meta Llama Models](https://llama.meta.com/): The open source AI model you can fine-tune, distill and deploy anywhere.
-- [Google Gemini](https://github.com/google-gemini/generative-ai-python): The official Python library for the Google Gemini API
-- [Ollama](https://github.com/ollama/ollama): Get up and running with large language models locally.
-- [Grok](https://github.com/groq/groq-python): The official Python Library for the Groq API
+| **Provider** | **Description** | **Links** |
+|--------------|------------------|-----------|
+| [OpenAI](https://github.com/openai/openai-python) | The official Python library for the OpenAI API. | [GitHub](https://github.com/openai/openai-python) |
+| [OpenAI Agents](https://github.com/openai/openai-agents-python) | The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. | [GitHub](https://github.com/openai/openai-agents-python) |
+| [Hugging Face Models](https://huggingface.co/models) | Open LLM models by Meta, Mistral, and hundreds of other providers. | [Hugging Face](https://huggingface.co/models) |
+| [Anthropic Claude](https://github.com/anthropics/anthropic-sdk-python) | The official Python library for the Anthropic API. | [GitHub](https://github.com/anthropics/anthropic-sdk-python) |
+| [Meta Llama Models](https://llama.meta.com/) | The open-source AI model you can fine-tune, distill, and deploy anywhere. | [Meta](https://llama.meta.com/) |
+| [Google Gemini](https://github.com/google-gemini/generative-ai-python) | The official Python library for the Google Gemini API. | [GitHub](https://github.com/google-gemini/generative-ai-python) |
+| [Ollama](https://github.com/ollama/ollama) | Get up and running with large language models locally. | [GitHub](https://github.com/ollama/ollama) |
+| [Grok](https://github.com/groq/groq-python) | The official Python library for the Groq API. | [GitHub](https://github.com/groq/groq-python) |
 
 ## Open Source LLM Models
 
-- [DeepSeek-R1](https://www.deepseek.com/): 1st generation reasoning model that competes with OpenAI o1. [Paper](https://arxiv.org/abs/2501.12948) | [GitHub](https://github.com/deepseek-ai/DeepSeek-R1)
-- [Qwen](https://qwenlm.github.io/): Alibaba's Qwen models [GitHub](https://github.com/QwenLM/Qwen)
-- [Llama](https://www.llama.com/): Meta's foundational models [GitHub](https://github.com/meta-llama/llama)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [DeepSeek-R1](https://www.deepseek.com/) | 1st generation reasoning model that competes with OpenAI o1. | [Paper](https://arxiv.org/abs/2501.12948) \| [GitHub](https://github.com/deepseek-ai/DeepSeek-R1) |
+| [Qwen](https://qwenlm.github.io/) | Alibaba's Qwen models. | [GitHub](https://github.com/QwenLM/Qwen) |
+| [Llama](https://www.llama.com/) | Meta's foundational models. | [GitHub](https://github.com/meta-llama/llama) |
 
 ## LangChain Ecosystem
 
-- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
-- [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
-- [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [LangChain](https://www.langchain.com/) | A framework for developing applications powered by large language models (LLMs). | [Documentation](https://python.langchain.com/) \| [GitHub](https://github.com/langchain-ai/langchain) \| [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. | [Documentation](https://langchain-ai.github.io/langgraph/) \| [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials) |
+| [LangSmith](https://smith.langchain.com/) | A platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. | [Documentation](https://docs.smith.langchain.com/) \| [GitHub](https://github.com/langchain-ai/langsmith-sdk) |
 
 ## LangGraph Extensions
 
-- [LangGraph Prebuilt Agents](https://langchain-ai.github.io/langgraph/prebuilt/): Prebuilt agents for LangGraph (includes 3rd Party LangGraph extensions)
-- [AI Data Science Team](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
-- [LangMem](https://github.com/langchain-ai/langmem): LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. [GitHub](https://github.com/langchain-ai/langmem)
-- [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor): A Python library for creating hierarchical multi-agent systems using LangGraph. [GitHub](https://github.com/langchain-ai/langgraph-supervisor)
-- [Open Deep Research](https://github.com/langchain-ai/open_deep_research): An open source assistant that automates research and produces customizable reports on any topic. [GitHub](https://github.com/langchain-ai/open_deep_research)
-- [LangGraph Reflection](https://github.com/langchain-ai/langgraph-reflection): This prebuilt graph is an agent that uses a reflection-style architecture to check and improve an initial agent's output. [GitHub](https://github.com/langchain-ai/langgraph-reflection)
-- [LangGraph Big Tool](https://github.com/langchain-ai/langgraph-bigtool): Create LangGraph agents that can access large numbers of tools [GitHub](https://github.com/langchain-ai/langgraph-bigtool)
-- [LangGraph CodeAct](https://github.com/langchain-ai/langgraph-codeact): This library implements the CodeAct architecture in LangGraph. This is the architecture is used by Manus.im. [GitHub](https://github.com/langchain-ai/langgraph-codeact)
-- [LangGraph Swarm](https://github.com/langchain-ai/langgraph-swarm-py): Create swarm-style multi-agent systems using LangGraph. A swarm is a type of multi-agent architecture where agents dynamically hand off control to one another based on their specializations. [GitHub](https://github.com/langchain-ai/langgraph-swarm-py)
-- [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters): Provides a lightweight wrapper that makes Anthropic Model Context Protocol (MCP) tools compatible with LangChain and LangGraph. [GitHub](https://github.com/langchain-ai/langchain-mcp-adapters)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [LangGraph Prebuilt Agents](https://langchain-ai.github.io/langgraph/prebuilt/) | Prebuilt agents for LangGraph (includes 3rd Party LangGraph extensions). | [Documentation](https://langchain-ai.github.io/langgraph/prebuilt/) |
+| [AI Data Science Team](https://github.com/business-science/ai-data-science-team) | An AI-powered data science team of agents to help you perform common data science tasks 10X faster. | [GitHub](https://github.com/business-science/ai-data-science-team) |
+| [LangMem](https://github.com/langchain-ai/langmem) | LangMem provides tooling to extract important information from conversations, optimize agent behavior through prompt refinement, and maintain long-term memory. | [GitHub](https://github.com/langchain-ai/langmem) |
+| [LangGraph Supervisor](https://github.com/langchain-ai/langgraph-supervisor) | A Python library for creating hierarchical multi-agent systems using LangGraph. | [GitHub](https://github.com/langchain-ai/langgraph-supervisor) |
+| [Open Deep Research](https://github.com/langchain-ai/open_deep_research) | An open-source assistant that automates research and produces customizable reports on any topic. | [GitHub](https://github.com/langchain-ai/open_deep_research) |
+| [LangGraph Reflection](https://github.com/langchain-ai/langgraph-reflection) | This prebuilt graph is an agent that uses a reflection-style architecture to check and improve an initial agent's output. | [GitHub](https://github.com/langchain-ai/langgraph-reflection) |
+| [LangGraph Big Tool](https://github.com/langchain-ai/langgraph-bigtool) | Create LangGraph agents that can access large numbers of tools. | [GitHub](https://github.com/langchain-ai/langgraph-bigtool) |
+| [LangGraph CodeAct](https://github.com/langchain-ai/langgraph-codeact) | This library implements the CodeAct architecture in LangGraph. This architecture is used by Manus.im. | [GitHub](https://github.com/langchain-ai/langgraph-codeact) |
+| [LangGraph Swarm](https://github.com/langchain-ai/langgraph-swarm-py) | Create swarm-style multi-agent systems using LangGraph. Agents dynamically hand off control to one another based on their specializations. | [GitHub](https://github.com/langchain-ai/langgraph-swarm-py) |
+| [LangChain MCP Adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | Provides a lightweight wrapper that makes Anthropic Model Context Protocol (MCP) tools compatible with LangChain and LangGraph. | [GitHub](https://github.com/langchain-ai/langchain-mcp-adapters) |
 
 ## Huggingface Ecosystem
 
-- [Huggingface](https://huggingface.co/): An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models.  [Documentation](https://huggingface.co/docs)
-- [Transformers](https://huggingface.co/docs/transformers): Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models.
-- [Tokenizers](https://huggingface.co/docs/tokenizers): Tokenizers provides an implementation of today’s most used tokenizers, with a focus on performance and versatility [Documentation] | [Github](https://github.com/huggingface/transformers)
-- [Sentence Transformers](https://sbert.net/): Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models.
-- [smolagents](https://huggingface.co/docs/smolagents): The simplest framework out there to build powerful agents [Documentation](https://huggingface.co/docs/smolagents) | [Github](https://github.com/huggingface/smolagents)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [Huggingface](https://huggingface.co/) | An open-source platform for machine learning (ML) and artificial intelligence (AI) tools and models. | [Documentation](https://huggingface.co/docs) |
+| [Transformers](https://huggingface.co/docs/transformers) | Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models. | [Documentation](https://huggingface.co/docs/transformers) |
+| [Tokenizers](https://huggingface.co/docs/tokenizers) | Tokenizers provides an implementation of today’s most used tokenizers, with a focus on performance and versatility. | [Documentation](https://huggingface.co/docs/tokenizers) \| [GitHub](https://github.com/huggingface/transformers) |
+| [Sentence Transformers](https://sbert.net/) | Sentence Transformers (a.k.a. SBERT) is the go-to Python module for accessing, using, and training state-of-the-art text and image embedding models. | [Documentation](https://sbert.net/) |
+| [smolagents](https://huggingface.co/docs/smolagents) | The simplest framework out there to build powerful agents. | [Documentation](https://huggingface.co/docs/smolagents) \| [GitHub](https://github.com/huggingface/smolagents) |
 
 ## Vector Databases (RAG)
 
-- [ChromaDB](https://github.com/chroma-core/chroma): The fastest way to build Python or JavaScript LLM apps with memory!
-- [FAISS](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors.
-- [Qdrant](https://qdrant.tech/): High-Performance Vector Search at Scale
-- [Pinecone](https://github.com/pinecone-io/pinecone-python-client): The official Pinecone Python SDK.
-- [Milvus](https://github.com/milvus-io/milvus): Milvus is an open-source vector database built to power embedding similarity search and AI applications. 
-- [SQLite Vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere! [GitHub](https://github.com/asg017/sqlite-vec)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [ChromaDB](https://github.com/chroma-core/chroma) | The fastest way to build Python or JavaScript LLM apps with memory! | [GitHub](https://github.com/chroma-core/chroma) |
+| [FAISS](https://github.com/facebookresearch/faiss) | A library for efficient similarity search and clustering of dense vectors. | [GitHub](https://github.com/facebookresearch/faiss) |
+| [Qdrant](https://qdrant.tech/) | High-Performance Vector Search at Scale. | [Website](https://qdrant.tech/) |
+| [Pinecone](https://github.com/pinecone-io/pinecone-python-client) | The official Pinecone Python SDK. | [GitHub](https://github.com/pinecone-io/pinecone-python-client) |
+| [Milvus](https://github.com/milvus-io/milvus) | Milvus is an open-source vector database built to power embedding similarity search and AI applications. | [GitHub](https://github.com/milvus-io/milvus) |
+| [SQLite Vec](https://github.com/asg017/sqlite-vec) | A vector search SQLite extension that runs anywhere! | [GitHub](https://github.com/asg017/sqlite-vec) |
 
 ## Pretraining
 
-- [PyTorch](https://pytorch.org/): PyTorch is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
-- [TensorFlow](https://www.tensorflow.org/): TensorFlow is an open-source machine learning library developed by Google.
-- [JAX](https://github.com/jax-ml/jax): Google’s library for high-performance computing and automatic differentiation.
-- [tinygrad](https://github.com/tinygrad/tinygrad): A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz.
-- [micrograd](https://github.com/karpathy/micrograd): A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy.
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [PyTorch](https://pytorch.org/) | PyTorch is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. | [Website](https://pytorch.org/) |
+| [TensorFlow](https://www.tensorflow.org/) | TensorFlow is an open-source machine learning library developed by Google. | [Website](https://www.tensorflow.org/) |
+| [JAX](https://github.com/jax-ml/jax) | Google’s library for high-performance computing and automatic differentiation. | [GitHub](https://github.com/jax-ml/jax) |
+| [tinygrad](https://github.com/tinygrad/tinygrad) | A minimalistic deep learning library with a focus on simplicity and educational use, created by George Hotz. | [GitHub](https://github.com/tinygrad/tinygrad) |
+| [micrograd](https://github.com/karpathy/micrograd) | A simple, lightweight autograd engine for educational purposes, created by Andrej Karpathy. | [GitHub](https://github.com/karpathy/micrograd) |
 
 ## Fine-tuning
 
