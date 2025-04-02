@@ -109,32 +109,38 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 ## Coding Agents
 
-- [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): A framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. [Documentation](https://github.com/QwenLM/Qwen-Agent/tree/main/docs) | [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) | [Github](https://github.com/QwenLM/Qwen-Agent)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | A framework for developing LLM applications based on the instruction following, tool usage, planning, and memory capabilities of Qwen. It also comes with example applications such as Browser Assistant, Code Interpreter, and Custom Assistant. | [Documentation](https://github.com/QwenLM/Qwen-Agent/tree/main/docs) \| [Examples](https://github.com/QwenLM/Qwen-Agent/tree/main/examples) \| [GitHub](https://github.com/QwenLM/Qwen-Agent) |
 
 ## Deep Research Agents
 
-- [HuggingFace OpenDeepResearch](https://huggingface.co/blog/open-deep-research): Open version of OpenAI's Deep Research agent. [Blog](https://huggingface.co/blog/open-deep-research) | [Example](https://github.com/huggingface/smolagents/blob/gaia-submission-r1/examples/open_deep_research/visual_vs_text_browser.ipynb) | [GitHub](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research)
-- [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher): AI researcher that continuously searches for information based on a user query until the system is confident that it has gathered all the necessary details.
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [HuggingFace OpenDeepResearch](https://huggingface.co/blog/open-deep-research) | Open version of OpenAI's Deep Research agent. | [Blog](https://huggingface.co/blog/open-deep-research) \| [Example](https://github.com/huggingface/smolagents/blob/gaia-submission-r1/examples/open_deep_research/visual_vs_text_browser.ipynb) \| [GitHub](https://github.com/huggingface/smolagents/tree/gaia-submission-r1/examples/open_deep_research) |
+| [OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) | AI researcher that continuously searches for information based on a user query until the system is confident that it has gathered all the necessary details. | [GitHub](https://github.com/mshumer/OpenDeepResearcher) |
 
 ## AI Frameworks (Build Your Own)
 
-- [LangChain](https://www.langchain.com/): A framework for developing applications powered by large language models (LLMs). [Documentation](https://python.langchain.com/) | [Github](https://github.com/langchain-ai/langchain) [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
-- [LangGraph](https://github.com/langchain-ai/langgraph): A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. [Documentation](https://langchain-ai.github.io/langgraph/) [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials)
-- [LangSmith](https://smith.langchain.com/): LangSmith is a platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. [Documentation](https://docs.smith.langchain.com/) | [Github](https://github.com/langchain-ai/langsmith-sdk)
-- [LlamaIndex](https://www.llamaindex.ai/): LlamaIndex is a framework for building context-augmented generative AI applications with LLMs. [Documentation](https://docs.llamaindex.ai/) | [Github](https://github.com/run-llama/llama_index)
-- [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex): LlamaIndex workflows is a mechanism for orchestrating actions in the increasingly-complex AI application we see our users building.
-- [CrewAI](https://www.crewai.com/): Streamline workflows across industries with powerful AI agents. [Documentation](https://docs.crewai.com/) | [Github](https://github.com/crewAIInc/crewAI)
-- [AutoGen](https://github.com/microsoft/autogen): Microsoft's programming framework for agentic AI.
-- [Pydantic AI](https://ai.pydantic.dev/): Python agent framework designed to make building production-grade applications with Generative AI less painful. [Github](https://github.com/pydantic/pydantic-ai)
-- [ControlFlow](https://controlflow.ai/): Prefect's Python framework for building agentic AI workflows. [Documentation](https://controlflow.ai/welcome) | [Github](https://github.com/PrefectHQ/ControlFlow)
-- [FlatAI](https://github.com/mindsdb/flat-ai): Frameworkless LLM Agents.
-- [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html): Meta (Facebook) core building blocks needed to bring generative AI applications to market. [Documenation](https://llama-stack.readthedocs.io/en/latest/index.html) | [GitHub](https://github.com/meta-llama/llama-stack)
-- [Haystack](https://haystack.deepset.ai/): Deepset AI's open source AI orchestration framework for building customizable, production-ready LLM applications. [Documentation](https://docs.haystack.deepset.ai/docs) | [GitHub](https://github.com/deepset-ai/haystack)
-- [Pocket Flow](https://the-pocket.github.io/PocketFlow/): A 100-line minimalist LLM framework for Agents, Task Decomposition, RAG, etc. [Documentation](https://the-pocket.github.io/PocketFlow/) | [GitHub](https://github.com/The-Pocket/PocketFlow)
-- [Agency Swarm](https://vrsen.github.io/agency-swarm/): An open-source agent orchestration framework built on top of the latest OpenAI Assistants API. [Documentation](https://vrsen.github.io/agency-swarm/) | [GitHub](https://github.com/VRSEN/agency-swarm)
-- [Google GenAI](https://googleapis.github.io/python-genai/): Google Gen AI Python SDK provides an interface for developers to integrate Google’s generative models into their Python applications. It supports the Gemini Developer API and Vertex AI APIs. [Documentation](https://googleapis.github.io/python-genai/) | [GitHub](https://github.com/googleapis/python-genai)
-- [AutoAgent](https://github.com/HKUDS/AutoAgent): AutoAgent is a Fully-Automated and highly Self-Developing framework that enables users to create and deploy LLM agents through Natural Language Alone. [GitHub](https://github.com/HKUDS/AutoAgent)
-- [Legion](https://legion.llmp.io/): Legion is a flexible and provider-agnostic framework designed to simplify the creation of sophisticated multi-agent systems. [Documentation](https://legion.llmp.io/docs) | [GitHub](https://github.com/LLMP-io/Legion)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| [LangChain](https://www.langchain.com/) | A framework for developing applications powered by large language models (LLMs). | [Documentation](https://python.langchain.com/) \| [GitHub](https://github.com/langchain-ai/langchain) \| [Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook) |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | A library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows. | [Documentation](https://langchain-ai.github.io/langgraph/) \| [Tutorials](https://github.com/langchain-ai/langgraph/tree/main/docs/docs/tutorials) |
+| [LangSmith](https://smith.langchain.com/) | A platform for building production-grade LLM applications. It allows you to closely monitor and evaluate your application, so you can quickly and confidently ship. | [Documentation](https://docs.smith.langchain.com/) \| [GitHub](https://github.com/langchain-ai/langsmith-sdk) |
+| [LlamaIndex](https://www.llamaindex.ai/) | A framework for building context-augmented generative AI applications with LLMs. | [Documentation](https://docs.llamaindex.ai/) \| [GitHub](https://github.com/run-llama/llama_index) |
+| [LlamaIndex Workflows](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex) | A mechanism for orchestrating actions in increasingly complex AI applications. | [Blog](https://www.llamaindex.ai/blog/introducing-workflows-beta-a-new-way-to-create-complex-ai-applications-with-llamaindex) |
+| [CrewAI](https://www.crewai.com/) | Streamline workflows across industries with powerful AI agents. | [Documentation](https://docs.crewai.com/) \| [GitHub](https://github.com/crewAIInc/crewAI) |
+| [AutoGen](https://github.com/microsoft/autogen) | Microsoft's programming framework for agentic AI. | [GitHub](https://github.com/microsoft/autogen) |
+| [Pydantic AI](https://ai.pydantic.dev/) | Python agent framework designed to make building production-grade applications with Generative AI less painful. | [GitHub](https://github.com/pydantic/pydantic-ai) |
+| [ControlFlow](https://controlflow.ai/) | Prefect's Python framework for building agentic AI workflows. | [Documentation](https://controlflow.ai/welcome) \| [GitHub](https://github.com/PrefectHQ/ControlFlow) |
+| [FlatAI](https://github.com/mindsdb/flat-ai) | Frameworkless LLM Agents. | [GitHub](https://github.com/mindsdb/flat-ai) |
+| [Llama Stack](https://llama-stack.readthedocs.io/en/latest/index.html) | Meta (Facebook) core building blocks needed to bring generative AI applications to market. | [Documentation](https://llama-stack.readthedocs.io/en/latest/index.html) \| [GitHub](https://github.com/meta-llama/llama-stack) |
+| [Haystack](https://haystack.deepset.ai/) | Deepset AI's open-source AI orchestration framework for building customizable, production-ready LLM applications. | [Documentation](https://docs.haystack.deepset.ai/docs) \| [GitHub](https://github.com/deepset-ai/haystack) |
+| [Pocket Flow](https://the-pocket.github.io/PocketFlow/) | A 100-line minimalist LLM framework for Agents, Task Decomposition, RAG, etc. | [Documentation](https://the-pocket.github.io/PocketFlow/) \| [GitHub](https://github.com/The-Pocket/PocketFlow) |
+| [Agency Swarm](https://vrsen.github.io/agency-swarm/) | An open-source agent orchestration framework built on top of the latest OpenAI Assistants API. | [Documentation](https://vrsen.github.io/agency-swarm/) \| [GitHub](https://github.com/VRSEN/agency-swarm) |
+| [Google GenAI](https://googleapis.github.io/python-genai/) | Google Gen AI Python SDK provides an interface for developers to integrate Google’s generative models into their Python applications. | [Documentation](https://googleapis.github.io/python-genai/) \| [GitHub](https://github.com/googleapis/python-genai) |
+| [AutoAgent](https://github.com/HKUDS/AutoAgent) | A fully-automated and highly self-developing framework that enables users to create and deploy LLM agents through natural language alone. | [GitHub](https://github.com/HKUDS/AutoAgent) |
+| [Legion](https://legion.llmp.io/) | A flexible and provider-agnostic framework designed to simplify the creation of sophisticated multi-agent systems. | [Documentation](https://legion.llmp.io/docs) \| [GitHub](https://github.com/LLMP-io/Legion) |
 
 ## AI Frameworks (Drag and Drop)
 
