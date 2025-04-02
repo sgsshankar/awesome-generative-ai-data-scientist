@@ -26,7 +26,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
   - [Table of Contents](#table-of-contents)
 - [Awesome Real-World AI Use Cases](#awesome-real-world-ai-use-cases)
 - [Python Libraries](#python-libraries)
-  - [Python AI, Data Science, and ML Compilations](#python-ai-data-science-and-ml-compilations)
+  - [Curated Python AI, Data Science, and ML Compilations](#curated-python-ai-data-science-and-ml-compilations)
   - [Data Science And AI Agents](#data-science-and-ai-agents)
   - [Coding Agents](#coding-agents)
   - [Deep Research Agents](#deep-research-agents)
@@ -53,7 +53,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
   - [Prompt Improvement](#prompt-improvement-1)
   - [Other](#other)
 - [R Libraries](#r-libraries)
-  - [R LLM Package Compilations](#r-llm-package-compilations)
+  - [Curated AI, ML, Data Science Lists](#curated-ai-ml-data-science-lists)
   - [Ellmer-Verse](#ellmer-verse)
   - [mlverse](#mlverse)
   - [Other Popular Interfaces to LLM Models in R](#other-popular-interfaces-to-llm-models-in-r)
@@ -87,13 +87,16 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # Python Libraries
 
-## Python AI, Data Science, and ML Compilations
+## Curated Python AI, Data Science, and ML Compilations
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
+| [Awesome Generative AI Data Scientist](https://github.com/business-science/awesome-generative-ai-data-scientist) | A curated list of 100+ resources for building and deploying generative AI specifically focusing on helping you become a Generative AI Data Scientist | [GitHub](https://github.com/business-science/awesome-generative-ai-data-scientist) |
 | [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) | A curated list of 120+ LLM libraries organized by category. | [GitHub](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) |
 | 🚀🚀 [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python) | A ranked list of awesome machine learning Python libraries. Updated weekly. | [GitHub](https://github.com/ml-tooling/best-of-ml-python) |
 | 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/) | Probably the best curated list of data science software in Python. | [GitHub](https://github.com/krzjoa/awesome-python-data-science) |
+| [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) | A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning | [GitHub](https://github.com/EthicalML/awesome-production-machine-learning) |
+| [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) | A list of AI autonomous agents | [GitHub](https://github.com/e2b-dev/awesome-ai-agents) |
 
 ## Data Science And AI Agents
 
@@ -343,7 +346,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # R Libraries
 
-## R LLM Package Compilations
+## Curated AI, ML, Data Science Lists
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
@@ -431,7 +434,7 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 | **Google Vertex AI Examples** | Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop, and manage machine learning and generative AI workflows using Google Cloud Vertex AI. | [GitHub](https://github.com/GoogleCloudPlatform/vertex-ai-samples) |
 | **Google Generative AI Examples** | Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI. | [GitHub](https://github.com/GoogleCloudPlatform/generative-ai) |
 
-## NVIDIA 
+## NVIDIA
 
 | **Project** | **Description** | **Links** |
 |-------------|------------------|-----------|
