@@ -73,33 +73,39 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 # Awesome Real-World AI Use Cases
 
-- 🚀🚀 [AI-Powered Data Science Team In Python](https://github.com/business-science/ai-data-science-team): An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
-- 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): LLM RAG AI Apps with Step-By-Step Tutorials
-- [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund): Proof of concept for an AI-powered hedge fund
-- [AI Financial Agent](https://github.com/virattt/ai-financial-agent): A financial agent for investment research
-- [Strutured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA): How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. We show that this agent can produce reports of varying and easily configurable format. [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) | [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) | [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb)
-- [Uber QueryGPT](https://www.uber.com/en-TW/blog/query-gpt/): Uber's QueryGPT uses large language models (LLM), vector databases, and similarity search to generate complex queries from English (Natural Language) questions that are provided by the user as input. The tool enhances the productivity of engineers, operations managers, and data scientists at Uber.
-- [Nir Diamant GenAI Agents Hub](https://github.com/NirDiamant/GenAI_Agents): Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems. [GitHub](https://github.com/NirDiamant/GenAI_Agents)
-- [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/tree/main): Real-world AI agent applications, LLM and RAG tutorials, with examples to implement. [GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main)
-- [StockChat](https://github.com/clchinkc/stockchat): An open source alternative to Perplexity Finance [GitHub](https://github.com/clchinkc/stockchat)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| 🚀🚀 [AI-Powered Data Science Team In Python](https://github.com/business-science/ai-data-science-team) | An AI-powered data science team of copilots that uses agents to help you perform common data science tasks 10X faster. | [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) \| [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) \| [GitHub](https://github.com/business-science/ai-data-science-team) |
+| 🚀 [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | LLM RAG AI Apps with Step-By-Step Tutorials. | [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) | Proof of concept for an AI-powered hedge fund. | [GitHub](https://github.com/virattt/ai-hedge-fund) |
+| [AI Financial Agent](https://github.com/virattt/ai-financial-agent) | A financial agent for investment research. | [GitHub](https://github.com/virattt/ai-financial-agent) |
+| [Structured Report Generation (LangGraph)](https://www.youtube.com/watch?v=E04rFNtwFcA) | How to build an agent that can orchestrate the end-to-end process of report planning, web research, and writing. Produces reports of varying and easily configurable formats. | [Video](https://www.youtube.com/watch?v=E04rFNtwFcA) \| [Blog](https://blog.langchain.dev/structured-report-generation-blueprint/) \| [Code](https://github.com/langchain-ai/langchain-nvidia/blob/main/cookbook/structured_report_generation.ipynb) |
+| [Uber QueryGPT](https://www.uber.com/en-TW/blog/query-gpt/) | Uber's QueryGPT uses large language models (LLM), vector databases, and similarity search to generate complex queries from English (Natural Language) questions, enhancing productivity for engineers, operations managers, and data scientists. | [Blog](https://www.uber.com/en-TW/blog/query-gpt/) |
+| [Nir Diamant GenAI Agents Hub](https://github.com/NirDiamant/GenAI_Agents) | Tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. A comprehensive guide for building intelligent, interactive AI systems. | [GitHub](https://github.com/NirDiamant/GenAI_Agents) |
+| [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub/tree/main) | Real-world AI agent applications, LLM and RAG tutorials, with examples to implement. | [GitHub](https://github.com/patchy631/ai-engineering-hub/tree/main) |
+| [StockChat](https://github.com/clchinkc/stockchat) | An open-source alternative to Perplexity Finance. | [GitHub](https://github.com/clchinkc/stockchat) |
 
 # Python Libraries
 
 ## Data Science and Machine Learning
 
-- 🚀🚀 [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python): A ranked list of awesome machine learning Python libraries. Updated weekly.
-- 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/): Probably the best curated list of data science software in Python [GitHub](https://github.com/krzjoa/awesome-python-data-science)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| 🚀🚀 [Best of ML Python](https://github.com/ml-tooling/best-of-ml-python) | A ranked list of awesome machine learning Python libraries. Updated weekly. | [GitHub](https://github.com/ml-tooling/best-of-ml-python) |
+| 🚀🚀 [Awesome Python Data Science](https://krzjoa.github.io/awesome-python-data-science/#/) | Probably the best curated list of data science software in Python. | [GitHub](https://github.com/krzjoa/awesome-python-data-science) |
 
 ## Data Science And AI Agents
 
-- 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team): AI Agents to help you perform common data science tasks 10X faster. [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) | [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) | [Github](https://github.com/business-science/ai-data-science-team)
-- 🚀 [PandasAI](https://pandas-ai.com/): Open Source AI Agents for Data Analysis. [Documentation](https://docs.pandas-ai.com/) | [Github](https://github.com/sinaptik-ai/pandas-ai)
-- [Microsoft Data Formulator](https://github.com/microsoft/data-formulator): Transform data and create rich visualizations iteratively with AI 🪄. [Paper](https://arxiv.org/abs/2408.16119) | [GitHub](https://github.com/microsoft/data-formulator)
-- [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent): Let a LLM agent write and execute code inside a notebook
-- [Jupyter AI](https://github.com/jupyterlab/jupyter-ai): A generative AI extension for JupyterLab [Documentation](https://jupyter-ai.readthedocs.io/en/latest/)
-- [WrenAI](https://getwren.ai/oss): Open-source GenBI AI Agent. Text2SQL made Easy! [Documentation](https://docs.getwren.ai/oss/overview/introduction) | [GitHub](https://github.com/Canner/WrenAI)
-- [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/): Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) | [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | [GitHub](https://github.com/googleapis/genai-toolbox)
-- [Vanna AI](https://vanna.ai/): The fastest way to get actionable insights from your SQL database just by asking questions [Documentation](https://vanna.ai/docs/) | [GitHub](https://github.com/vanna-ai/vanna)
+| **Project** | **Description** | **Links** |
+|-------------|------------------|-----------|
+| 🚀🚀 [AI Data Science Team In Python](https://github.com/business-science/ai-data-science-team) | AI Agents to help you perform common data science tasks 10X faster. | [Apps](https://github.com/business-science/ai-data-science-team/tree/master/apps) \| [Examples](https://github.com/business-science/ai-data-science-team/tree/master/examples) \| [GitHub](https://github.com/business-science/ai-data-science-team) |
+| 🚀 [PandasAI](https://pandas-ai.com/) | Open Source AI Agents for Data Analysis. | [Documentation](https://docs.pandas-ai.com/) \| [GitHub](https://github.com/sinaptik-ai/pandas-ai) |
+| [Microsoft Data Formulator](https://github.com/microsoft/data-formulator) | Transform data and create rich visualizations iteratively with AI 🪄. | [Paper](https://arxiv.org/abs/2408.16119) \| [GitHub](https://github.com/microsoft/data-formulator) |
+| [Jupyter Agent](https://huggingface.co/spaces/data-agents/jupyter-agent) | Let a LLM agent write and execute code inside a notebook. | [Hugging Face](https://huggingface.co/spaces/data-agents/jupyter-agent) |
+| [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) | A generative AI extension for JupyterLab. | [Documentation](https://jupyter-ai.readthedocs.io/en/latest/) \| [GitHub](https://github.com/jupyterlab/jupyter-ai) |
+| [WrenAI](https://getwren.ai/oss) | Open-source GenBI AI Agent. Text2SQL made Easy! | [Documentation](https://docs.getwren.ai/oss/overview/introduction) \| [GitHub](https://github.com/Canner/WrenAI) |
+| [Google GenAI Toolbox for Databases](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) | Gen AI Toolbox for Databases is an open-source server that makes it easier to build Gen AI tools for interacting with databases. | [Blog](https://cloud.google.com/blog/products/ai-machine-learning/announcing-gen-ai-toolbox-for-databases-get-started-today) \| [Documentation](https://googleapis.github.io/genai-toolbox/getting-started/introduction/) \| [GitHub](https://github.com/googleapis/genai-toolbox) |
+| [Vanna AI](https://vanna.ai/) | The fastest way to get actionable insights from your SQL database just by asking questions. | [Documentation](https://vanna.ai/docs/) \| [GitHub](https://github.com/vanna-ai/vanna) |
 
 ## Coding Agents
 
