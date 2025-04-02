@@ -19,10 +19,15 @@ A curated list of 100+ resources to help you become a Generative AI Data Scienti
 
 [**Please ⭐ us on GitHub (it takes 2 seconds and means a lot).**](awesome-generative-ai-data-scientist)
 
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue if you have suggestions for new resources or improvements to existing ones. Thanks for your support!
+
 ## Table of Contents
 
 - [Awesome Generative AI Data Scientist ](#awesome-generative-ai-data-scientist-)
   - [🚀🚀 100+ Free Resources On Generative AI for Data Scientists](#-100-free-resources-on-generative-ai-for-data-scientists)
+  - [Contributing](#contributing)
   - [Table of Contents](#table-of-contents)
 - [Awesome Real-World AI Use Cases](#awesome-real-world-ai-use-cases)
 - [Python Libraries](#python-libraries)
