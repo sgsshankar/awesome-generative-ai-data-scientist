@@ -264,7 +264,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [Docling by IBM](https://ds4sd.github.io/docling/) | Parse documents and export them to the desired format with ease and speed. | [GitHub](https://github.com/DS4SD/docling) |
 | [Markitdown by Microsoft](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | [GitHub](https://github.com/microsoft/markitdown) |
 | [DocETL](https://www.docetl.org/) | A system for agentic LLM-powered data processing and ETL. | [Documentation](https://ucbepic.github.io/docetl/) \| [GitHub](https://github.com/ucbepic/docetl) |
-| [Unstructured.io](https://unstructured.io/) | Unstructured provides a platform and tools to ingest and process unstructured documents for Retrieval Augmented Generation (RAG) and model fine-tuning. | [Documentation](https://docs.unstructured.io/welcome) \| [GitHub](https://github.com/Unstructured-IO/unstructured) |
+| [Unstructured.io](https://unstructured.io/) | Unstructured provides a platform and tools to ingest and process unstructured documents for Retrieval Augmented Generation (RAG) and model fine-tuning. | [Documentation](https://docs.unstructured.io/welcome) \| [GitHub](https://github.com/Unstructured-IO/unstructured) \| [Paper](https://www.iarpa.gov/images/PropsersDayPDFs/BENGAL/Unstructured.io%20Federal%20Capabilities%20Statement%20for%20IARPA.pdf) |
 
 ## Web Parsing (HTML) and Web Crawling
 
