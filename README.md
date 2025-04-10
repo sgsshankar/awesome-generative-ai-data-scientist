@@ -286,6 +286,7 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 | [smolagents](https://huggingface.co/docs/smolagents) | The simplest framework out there to build powerful agents. | [Documentation](https://huggingface.co/docs/smolagents) \| [GitHub](https://github.com/huggingface/smolagents) |
 | [Agentarium](https://github.com/Thytu/Agentarium) | Open-source framework for creating and managing simulations populated with AI-powered agents. It provides an intuitive platform for designing complex, interactive environments where agents can act, learn, and evolve. | [GitHub](https://github.com/Thytu/Agentarium) |
 | [AutoGen AgentChat](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html) | Build applications quickly with preset agents. | [Documentation](https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/quickstart.html) |
+| [Google Agent Development Kit (ADK)](https://google.github.io/adk-docs/) | An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. | [Documentation](https://google.github.io/adk-docs/) \| [GitHub](https://github.com/google/adk-python) |
 
 ## Agents and Tools (Prebuilt)
 
